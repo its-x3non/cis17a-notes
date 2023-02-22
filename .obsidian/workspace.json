@@ -8,99 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b00898a5a8af42fe",
+            "id": "66db60583c56acef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 2/Video Notes/Pointer Basics.md",
+                "file": "Module 2/Video Notes/4) Pointer Function Parameters.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5044f0d1ac97524",
+            "id": "6c5aef2f1f578484",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/Pearson Notes/8.1 Focus of Software Engineering - Introduction to Search Algorithms.md",
+                "file": "Module 2/Video Notes/5) Dynamic Memory Allocation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83674708ad12f7a7",
+            "id": "8bb8aadb643cca7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/Pearson Notes/8.1 Focus of Software Engineering - Introduction to Search Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46ef1f4c5b28b861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 1/Pearson Notes/8.1 Focus of Software Engineering - Introduction to Search Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "509feef7a61214a1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b1db8da0e9a05c56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 1/Pearson Notes/8.3 Focus on Software Engineering - Introduction to Sorting Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b65f7286f8d1bd40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 2/Pearson Notes/9.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9be2a4d8db52132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 1/Video Notes/test.md",
+                "file": "Module 2/Video Notes/6) Smart Pointer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 1/Video Notes/test.md",
+                "file": "Module 2/Video Notes/6) Smart Pointer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 1/Video Notes/test.md",
+                "file": "Module 2/Video Notes/6) Smart Pointer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,11 +150,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 1/Video Notes/test.md"
+                "file": "Module 2/Video Notes/6) Smart Pointer.md"
               }
             }
+          },
+          {
+            "id": "7620ad6ec7c0eb4c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -228,17 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9be2a4d8db52132",
+  "active": "8bb8aadb643cca7c",
   "lastOpenFiles": [
-    "Module 2/Pearson Notes/9.1.md",
+    "Module 2/Video Notes/5) Dynamic Memory Allocation.md",
+    "Module 2/Video Notes/6) Smart Pointer.md",
+    "Module 2/Video Notes/4) Pointer Function Parameters.md",
+    "Module 2/Video Notes/3) Comparing Pointers.md",
+    "Module 2/Video Notes/2) Arrays and Pointers.md",
+    "Module 2/Video Notes/1) Pointer Basics.md",
     "Module 1/Pearson Notes/8.3 Focus on Software Engineering - Introduction to Sorting Algorithms.md",
     "Module 1/Pearson Notes/8.2 Focus on Problem Solving and Program Design - A Case Study.md",
     "Module 1/Pearson Notes/8.1 Focus of Software Engineering - Introduction to Search Algorithms.md",
-    "Module 1/Pearson Notes/8.3 Photos/8.3 - Bubble Sort Pseudocode.png",
-    "Module 2/Untitled.md",
-    "Module 2/Video Notes/Pointer Basics.md",
-    "Untitled.canvas",
-    "Module 1/Pearson Notes/EXAMPLES.md",
-    "Module 1/Pearson Notes/8.3 Photos/8.3 - Bubble Sort Real Time Example 1.png"
+    "Module 2/Pearson Notes/9.1.md"
   ]
 }

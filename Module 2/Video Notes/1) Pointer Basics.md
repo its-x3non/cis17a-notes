@@ -11,9 +11,6 @@ cout << &num; // prints address in hexadecimal
 
 ```c++
 // In effect
-include <iostream>
-using namespace std;
-
 int main()
 {
 	int x = 25;
@@ -56,9 +53,6 @@ intptr = &num;
 - Example: `int *ptr = nullptr`
 
 ```c++
-#include <iostream>
-using namespace std;
-
 int main(){
 	int x = 25;
 	int *ptr = nullptr;
@@ -104,9 +98,6 @@ cout << *intptr << endl // *intptr prints 25.
 ```
 
 ```c++
-#include <iostream>
-using namespace std;
-
 int main(){
 	int x = 25;
 	int *ptr = nullptr; // pointer variable, can point to an int
