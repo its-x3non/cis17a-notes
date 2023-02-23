@@ -46,7 +46,8 @@ int* intptr;  // same as above
 int *intptr;
 intptr = &num;
 ```
-- Memory Layout:![[Pointer Basics - Pointer Variables Diagram.png]]
+- Memory Layout:
+![Pointer Basics - Pointer Variables diagram](/Module%202/Video%20Notes/(1)%20Pointer%20Basics%20Photos/Pointer%20Basics%20-%20Pointer%20Variables%20Diagram.png)
 ### (5 of 5)
 - Initialize pointer variables with the special value `nullptr`.
 - In C++ 11, the `nullptr` key word was introduce to represent the address 0.
@@ -68,7 +69,8 @@ int main(){
 ### Arrays (1 of 2)
 - Use `showValues[array, int];` to pass the array `numbers`
 ### Arrays (2 of 2)
-- The `values` parameter, in the `showValues` function, points to the `numbers` array![[Pointer Basics - Something Like Pointers - Arrays.png]]
+- The `values` parameter, in the `showValues` function, points to the `numbers` array
+![Pointer Basics - Something Like Pointers - Arrays](/Module%202/Video%20Notes/(1)%20Pointer%20Basics%20Photos/Pointer%20Basics%20-%20Something%20Like%20Pointers%20-%20Arrays.png)
 - C++ automatically stores the address of `numbers` in the `values` parameter
 ### Refrence Variables (1 of 2)
 - Suppose we have this function:
@@ -84,12 +86,13 @@ void getOrder (int &donuts)
 int jellyDonuts;
 getOrder(jellyDonuts);
 ```
-### Refrence Variables (2 of 2)
-- The `donuts` parameter, in the `getOrder` function, points to the `jellyDonuts` variable. ![[Pointer Basics - Something Like Pointers - Refrence Variables.png]]
+### Reference Variables (2 of 2)
+- The `donuts` parameter, in the `getOrder` function, points to the `jellyDonuts` variable. 
+![Pointer Basics - Something Like Pointers - Reference Variables](/Module%202/Video%20Notes/(1)%20Pointer%20Basics%20Photos/Pointer%20Basics%20-%20Something%20Like%20Pointers%20-%20Reference%20Variables.png)
 - C++ automatically stores the address of `jellyDonuts` in the `donuts` parameter
 
 ## The indirection Operator
-- The indirection operator (\*) derefrences a pointer.
+- The indirection operator (\*) dereferences a pointer.
 - It allows you to access the item that the pointer points to.
 ```c++
 int x = 25;

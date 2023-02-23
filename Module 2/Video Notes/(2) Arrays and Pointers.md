@@ -3,7 +3,7 @@
 ## The Relationship between Arrays and Pointers 
 ### (1 of 2)
 - Array name is starting address of array
-![[Pointers and Arrays - The Relationship between Arrays and Pointers 1.png]]
+![Pointers And Arrays - The Relation Ship between Arrays and Pointers 1](/Module%202/Video%20Notes/(2)%20Pointers%20And%20Arrays%20Photos/Pointers%20and%20Arrays%20-%20The%20Relationship%20between%20Arrays%20and%20Pointers%201.png)
 ```c++
 // This program shows an array name being dereferenced with the *
 // operator.
