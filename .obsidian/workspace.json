@@ -8,67 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66db60583c56acef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 2/Video Notes/4) Pointer Function Parameters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c5aef2f1f578484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 2/Video Notes/5) Dynamic Memory Allocation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bb8aadb643cca7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 2/Pearson Notes/9.1 - Getting the Address of a Variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "891b9211799555bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 2/Pearson Notes/9.2 - Pointer Varibles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d4eb032be096ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 2/Pearson Notes/9.3 - The Relationship Between Arrays and Pointers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85361f958062ef31",
+            "id": "b13e0be81cea68b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e6c1d090789676d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 2/Pearson Notes/9.5 - Initializing Pointers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4345642f3e6daf16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 2/Pearson Notes/9.6 - Comparing Pointers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d0625da64cccc1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 2/Pearson Notes/9.7 - Pointers as Function Parameters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b13e0be81cea68b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 2/Pearson Notes/9.3 - The Relationship Between Arrays and Pointers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 2/Pearson Notes/9.3 - The Relationship Between Arrays and Pointers.md",
+                "file": "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 2/Pearson Notes/9.3 - The Relationship Between Arrays and Pointers.md",
+                "file": "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 2/Pearson Notes/9.3 - The Relationship Between Arrays and Pointers.md"
+                "file": "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md"
               }
             }
           },
@@ -267,35 +158,38 @@
   },
   "active": "b13e0be81cea68b6",
   "lastOpenFiles": [
-    "Pasted image 20230222122142.png",
     "Module 2/Pearson Notes/9.3 - The Relationship Between Arrays and Pointers.md",
-    "Module 2/Pearson Notes/9.1 - Getting the Address of a Variable.md",
     "Module 2/Pearson Notes/9.2 - Pointer Varibles.md",
+    "Module 2/Pearson Notes/9.1 - Getting the Address of a Variable.md",
+    "Module 1/Pearson Notes/8.3 Focus on Software Engineering - Introduction to Sorting Algorithms.md",
+    "Module 1/Pearson Notes/8.2 Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 1/Pearson Notes/8.3 Photos/8.3 - Bubble Sort Real Time Example 2.png",
+    "Module 1/Pearson Notes/8.3 Photos/8.3 - Bubble Sort Real Time Example 1.png",
+    "Module 1/Pearson Notes/8.3 Photos/8.3 - Bubble Sort Pseudocode.png",
+    "8.3.md",
+    "8.3 - Figure.md",
+    "Module 1/Pearson Notes/8.1 Focus of Software Engineering - Introduction to Search Algorithms.md",
+    "8.2 - Final Product.md",
+    "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md",
+    "Module 2/Pearson Notes/9.5 - Initializing Pointers.md",
+    "Module 2/Pearson Notes/9.7 - Pointers as Function Parameters.md",
+    "Module 2/Pearson Notes/9.6 - Comparing Pointers.md",
+    "Module 2/Video Notes/5) Dynamic Memory Allocation.md",
+    "Pasted image 20230222122142.png",
     "9.3 - Figure 9-6.png",
     "Module 2/Pearson Notes/9.2 Photos/9.2 - Figure 9-2.png",
     "Module 2/Pearson Notes/9.2 Photos/9.2 - Figure 9-3.png",
     "Module 2/Pearson Notes/9.2 Photos/9.2 - Figure 9-4.png",
     "Pasted image 20230222113002.png",
     "Pasted image 20230222113329.png",
-    "Pasted image 20230222114639.png",
-    "9.3 - Figure 9-5.png",
     "Module 2/Pearson Notes/9.2 Photos",
     "Module 2/Pearson Notes/9.1 Photos",
-    "Module 1/Pearson Notes/8.3 Focus on Software Engineering - Introduction to Sorting Algorithms.md",
-    "Module 1/Pearson Notes/8.2 Focus on Problem Solving and Program Design - A Case Study.md",
-    "Module 1/Pearson Notes/8.1 Focus of Software Engineering - Introduction to Search Algorithms.md",
     "Module 2/Video Notes/2) Arrays and Pointers.md",
-    "Module 2/Pearson Notes/9.1 Photos/9.1 - Figure 9-1.png",
     "Module 2/Video Notes/1) Pointer Basics.md",
     "Module 2/Pearson Notes/9.10 - Using Smart Pointers to Avoid Memory Leaks.md",
     "Module 2/Pearson Notes/9.9 - Returning Pointers from Functions.md",
     "Module 2/Pearson Notes/9.8 - Returning Pointers from Functions.md",
-    "Module 2/Pearson Notes/9.7 - Pointers as Function Parameters.md",
-    "Module 2/Pearson Notes/9.6 - Comparing Pointers.md",
-    "Module 2/Pearson Notes/9.5 - Initializing Pointers.md",
-    "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md",
     "Module 2/Video Notes/6) Smart Pointer.md",
-    "Module 2/Video Notes/5) Dynamic Memory Allocation.md",
     "Module 2/Video Notes/4) Pointer Function Parameters.md",
     "Module 2/Video Notes/3) Comparing Pointers.md"
   ]
