@@ -23,7 +23,7 @@ int main()
 ```
 ## Pointer Variables
 ### (1 of 5)
-- **Pointer Variable:** Often just called a pointer, it's a variable thats hold an address
+- **Pointer Variable:** Often just called a pointer, it's a variable that hold an address
 - Because a pointer variable holds the address of another piece of data, it "points to the data".
 ### (2 of 5)
 - Pointer variables are yet another way using a memory address to work with a piece of data.

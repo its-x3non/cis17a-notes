@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4d5cd646cf3e6696",
+    "id": "f6ddd307277c6629",
     "type": "split",
     "children": [
       {
-        "id": "42df1c5951c4cabf",
+        "id": "6f298938c8e56ae9",
         "type": "tabs",
         "children": [
           {
-            "id": "b13e0be81cea68b6",
+            "id": "539a0a0a5ae1986b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 2/Video Notes/(2) Arrays and Pointers.md",
+                "file": "Module 2/Video Notes/(4) Pointer Function Parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7a650d4e56b9f8b2",
+    "id": "2d3969528cba9b1a",
     "type": "split",
     "children": [
       {
-        "id": "46d8a564ff2c915a",
+        "id": "65eef9a8f7918772",
         "type": "tabs",
         "children": [
           {
-            "id": "36739d2552f96fbe",
+            "id": "108fd8570af12999",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "1d416ae534edf2bf",
+            "id": "2ae669bbb3a7099f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "8a15e3a4784294e4",
+            "id": "2f7983fc830b7942",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "c1fbf63e60660b3b",
+    "id": "346efaeac6c8f047",
     "type": "split",
     "children": [
       {
-        "id": "2761a68b30cdebb7",
+        "id": "946daeafdc9a905a",
         "type": "tabs",
         "children": [
           {
-            "id": "761eda980ed0f2f3",
+            "id": "2cb029c939ea6aa0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 2/Video Notes/(2) Arrays and Pointers.md",
+                "file": "Module 2/Video Notes/(4) Pointer Function Parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "81479d0d5f9822cb",
+            "id": "91fb8c499fd643e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 2/Video Notes/(2) Arrays and Pointers.md",
+                "file": "Module 2/Video Notes/(4) Pointer Function Parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d48cc96fbc0b8b46",
+            "id": "6b564d8d1f450b1d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,25 +120,16 @@
             }
           },
           {
-            "id": "bc4bf368730e4638",
+            "id": "1fedd4f08782a367",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 2/Video Notes/(2) Arrays and Pointers.md"
+                "file": "Module 2/Video Notes/(4) Pointer Function Parameters.md"
               }
             }
-          },
-          {
-            "id": "7620ad6ec7c0eb4c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,53 +138,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b13e0be81cea68b6",
+  "active": "539a0a0a5ae1986b",
   "lastOpenFiles": [
-    "Module 2/Video Notes/(1) Pointer Basics.md",
-    "Module 2/Pearson Notes/9.3 - The Relationship Between Arrays and Pointers.md",
-    "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md",
-    "Module 2/Video Notes/(6) Smart Pointer.md",
-    "README.md",
     "Module 2/Video Notes/(5) Dynamic Memory Allocation.md",
-    "Module 2/Video Notes/(4) Pointer Function Parameters.md",
-    "Module 2/Video Notes/(3) Comparing Pointers.md",
-    "Module 2/Video Notes/(2) Arrays and Pointers.md",
-    "Module 2/Video Notes/(1) Pointer Basics Photos/Pointer Basics - Pointer Variables Diagram.png",
-    "Module 2/Pearson Notes/9.5 - Initializing Pointers.md",
-    "Module 2/Pearson Notes/9.2 - Pointer Varibles.md",
-    "Module 2/Pearson Notes/9.10 - Using Smart Pointers to Avoid Memory Leaks.md",
-    "Pointer.md",
-    "Module 2/Video Notes/(1) Pointer Basics Photos/Pointer Basics - Something Like Pointers - Reference Variables.png",
-    "Module 2/Video Notes/(1) Pointer Basics Photos/Pointer Basics - Something Like Pointers - Arrays.png",
-    "Module 2/Pearson Notes/9.3 Photos/9.3 - Figure 9-6.png",
-    "Module 2/Pearson Notes/9.3 Photos",
-    "Module 2/Pearson Notes/9.1 - Getting the Address of a Variable.md",
-    "Module 1/Pearson Notes/8.1 Focus of Software Engineering - Introduction to Search Algorithms.md",
-    "Module 1/Pearson Notes/8.2 Focus on Problem Solving and Program Design - A Case Study.md",
-    "Module 1/Pearson Notes/8.3 Focus on Software Engineering - Introduction to Sorting Algorithms.md",
-    "Module 1/Pearson Notes/8.3 Photos/8.3 - Figure 8-1.png",
-    "Module 1/Pearson Notes/8.3 Photos/8.3 - Bubble Sort Pseudocode.png",
-    "Module 1/Pearson Notes/8.3 Photos/8.3 - Bubble Sort Real Time Example 2.png",
-    "Module 1/Pearson Notes/8.3 Photos/8.3 - Bubble Sort Real Time Example 1.png",
-    "8.3.md",
-    "8.3 - Figure.md",
-    "8.2 - Final Product.md",
+    "Module 2/Video Notes/(1) Pointer Basics.md",
+    "Module 2/Video Notes/(6) Smart Pointer.md",
+    "Figure 9-12.png",
+    "Pasted image 20230223191800.png",
+    "Module 2/Pearson Notes/9.9 - Returning Pointers from Functions.md",
+    "Module 2/Pearson Notes/9.8 - Returning Pointers from Functions.md",
     "Module 2/Pearson Notes/9.7 - Pointers as Function Parameters.md",
     "Module 2/Pearson Notes/9.6 - Comparing Pointers.md",
-    "Pasted image 20230222122142.png",
-    "Module 2/Pearson Notes/9.2 Photos/9.2 - Figure 9-2.png",
-    "Module 2/Pearson Notes/9.2 Photos",
-    "Module 2/Pearson Notes/9.1 Photos",
-    "Module 2/Pearson Notes/9.9 - Returning Pointers from Functions.md",
-    "Module 2/Pearson Notes/9.8 - Returning Pointers from Functions.md"
+    "Module 2/Pearson Notes/9.8 Photos",
+    "Module 2/Pearson Notes/9.8 Photos/9.8 - Figure 9-11.png",
+    "Module 2/Pearson Notes/9.5 - Initializing Pointers.md",
+    "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md",
+    "Module 2/Pearson Notes/9.3 - The Relationship Between Arrays and Pointers.md",
+    "Module 2/Pearson Notes/9.2 - Pointer Varibles.md",
+    "Module 2/Pearson Notes/9.1 - Getting the Address of a Variable.md",
+    "Module 2/Pearson Notes/! Unit 9 Answers.md"
   ]
 }
