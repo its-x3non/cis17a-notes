@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 2/Pearson Notes/9.9 - Returning Pointers from Functions.md",
+                "file": "Module 2/Pearson Notes/9.10 - Using Smart Pointers to Avoid Memory Leaks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e44bc342624b1aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 2/Pearson Notes/9.11 - Focus on Problem Solving and Program Design - A Case Study.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 2/Pearson Notes/9.9 - Returning Pointers from Functions.md",
+                "file": "Module 2/Pearson Notes/9.11 - Focus on Problem Solving and Program Design - A Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 2/Pearson Notes/9.9 - Returning Pointers from Functions.md",
+                "file": "Module 2/Pearson Notes/9.11 - Focus on Problem Solving and Program Design - A Case Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 2/Pearson Notes/9.9 - Returning Pointers from Functions.md"
+                "file": "Module 2/Pearson Notes/9.11 - Focus on Problem Solving and Program Design - A Case Study.md"
               }
             }
           }
@@ -147,13 +160,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c746ddac8e0387a",
+  "active": "e44bc342624b1aa8",
   "lastOpenFiles": [
     "Module 2/Pearson Notes/9.10 - Using Smart Pointers to Avoid Memory Leaks.md",
+    "Module 2/Pearson Notes/9.11 - Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 1/Pearson Notes/8.2 Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 1/Pearson Notes/8.3 Focus on Software Engineering - Introduction to Sorting Algorithms.md",
     "Module 2/Pearson Notes/9.9 - Returning Pointers from Functions.md",
-    "Module 2/Pearson Notes/9.8 - Returning Pointers from Functions.md",
-    "Module 2/Video Notes/(1) Pointer Basics.md",
-    "Module 2/Video Notes/(2) Arrays and Pointers.md",
-    "Module 2/Video Notes/(1) Pointer Basics Photos/Pointer Basics - Something Like Pointers - Reference Variables.png"
+    "Module 2/Pearson Notes/9.8 - Dynamic Memory Allocation.md",
+    "Module 2/Pearson Notes/9.7 - Pointers as Function Parameters.md",
+    "Module 2/Pearson Notes/9.6 - Comparing Pointers.md",
+    "Module 2/Pearson Notes/9.5 - Initializing Pointers.md",
+    "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md"
   ]
 }

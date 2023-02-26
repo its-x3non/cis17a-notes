@@ -13,7 +13,7 @@
 
 ### (2 of 2)
 #### Figure 9-12
-![[Figure 9-12.png]]
+![Smart Pointer - Figure 9-12](Figure%209-12.png)
 - The notation `<int>` indicates that the pointer can point to an `int`
 - The name of the pointer is `ptr`
 - The expression `new int` allocates a chunk of memory to hold an `int`

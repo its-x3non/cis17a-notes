@@ -1,1 +1,7 @@
-{}
+{
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
+}
