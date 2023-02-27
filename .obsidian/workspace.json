@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a679a3e8e52a889f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 3/Pearson Notes/10.3 - C-Strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 3/Pearson Notes/10.1 - Character Testing.md",
+                "file": "Module 3/Pearson Notes/10.3 - C-Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 3/Pearson Notes/10.1 - Character Testing.md",
+                "file": "Module 3/Pearson Notes/10.3 - C-Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 3/Pearson Notes/10.1 - Character Testing.md"
+                "file": "Module 3/Pearson Notes/10.3 - C-Strings.md"
               }
             }
           }
@@ -147,33 +160,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a04f65287ce00e8b",
+  "active": "a679a3e8e52a889f",
   "lastOpenFiles": [
-    "Module 3/Pearson Notes/10.2 - Character Case Conversion.md",
-    "Module 3/Pearson Notes/10.1 - Character Testing.md",
-    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
-    "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
-    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
-    "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
+    "10.3 - The 2 Example Strings.png",
     "Module 3/Pearson Notes/10.4 - Library Functions for Working with C-Strings.md",
+    "Module 3/Pearson Notes/10.1 - Character Testing.md",
+    "Module 3/Pearson Notes/10.2 - Character Case Conversion.md",
     "Module 3/Pearson Notes/10.3 - C-Strings.md",
-    "Module 2/Pearson Notes/9.10 - Using Smart Pointers to Avoid Memory Leaks.md",
-    "Module 1/Pearson Notes/8.3 Focus on Software Engineering - Introduction to Sorting Algorithms.md",
-    "Module 1/Pearson Notes/8.1 Focus of Software Engineering - Introduction to Search Algorithms.md",
-    "Module 1/Pearson Notes/8.2 Focus on Problem Solving and Program Design - A Case Study.md",
     "Module 2/Pearson Notes/9.11 - Focus on Problem Solving and Program Design - A Case Study.md",
-    "Module 3/Pearson Notes",
-    "Module 3/Video Notes",
-    "Module 3",
+    "Module 2/Pearson Notes/9.10 - Using Smart Pointers to Avoid Memory Leaks.md",
     "Module 2/Pearson Notes/9.9 - Returning Pointers from Functions.md",
     "Module 2/Pearson Notes/9.8 - Dynamic Memory Allocation.md",
-    "Module 2/Pearson Notes/9.11 Photos/Figure 9-14.png",
-    "Module 2/Pearson Notes/9.11 Photos",
-    "Module 2/Video Notes/(5) Dynamic Memory Allocation.md",
-    "Module 2/Video Notes/(6) Smart Pointer.md",
     "Module 2/Pearson Notes/9.7 - Pointers as Function Parameters.md",
     "Module 2/Pearson Notes/9.6 - Comparing Pointers.md",
     "Module 2/Pearson Notes/9.5 - Initializing Pointers.md",
-    "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md"
+    "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md",
+    "Module 2/Pearson Notes/9.3 - The Relationship Between Arrays and Pointers.md",
+    "Module 2/Pearson Notes/9.2 - Pointer Varibles.md",
+    "Module 2/Pearson Notes/9.1 - Getting the Address of a Variable.md",
+    "Figure 10-1.png",
+    "Module 3/Pearson Notes/! Unit 10 Answers.md",
+    "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
+    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
+    "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
+    "Module 1/Pearson Notes/8.3 Focus on Software Engineering - Introduction to Sorting Algorithms.md",
+    "Module 1/Pearson Notes/8.1 Focus of Software Engineering - Introduction to Search Algorithms.md",
+    "Module 1/Pearson Notes/8.2 Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 3/Pearson Notes",
+    "Module 3/Video Notes",
+    "Module 3",
+    "Module 2/Pearson Notes/9.11 Photos/Figure 9-14.png",
+    "Module 2/Pearson Notes/9.11 Photos",
+    "Module 2/Video Notes/(5) Dynamic Memory Allocation.md",
+    "Module 2/Video Notes/(6) Smart Pointer.md"
   ]
 }
