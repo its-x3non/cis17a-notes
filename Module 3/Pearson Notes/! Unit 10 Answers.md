@@ -48,3 +48,23 @@ I think you got this one. It should be self-explanatory.
 
 ```
 
+## Quiz 10.7
+### Question 1
+```c++
+name[0]
+```
+Yes I'm actually deadass, this is the ANSWER bruh
+
+### Question 2
+```c++
+name[name.length()-1]
+```
+
+### Question 3
+```c++
+word.substr(0,3)
+```
+
+### Question 4
+```c++
+```
