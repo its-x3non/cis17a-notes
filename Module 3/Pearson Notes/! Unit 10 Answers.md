@@ -32,3 +32,19 @@ for(int i = 0; i < SIZE; i++)
 ```c++
 char stooges[3][6] = {"moe", "larry", "curly"};
 ```
+
+## Quiz 10.4
+### Question 1
+```c++
+s == "end"
+```
+Yes I'm serious that is the answer
+
+### Question 2
+I think you got this one. It should be self-explanatory.
+
+### Question 3
+```c++
+
+```
+
