@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
+                "file": "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
+                "file": "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
+                "file": "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md"
+                "file": "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "a04f65287ce00e8b",
   "lastOpenFiles": [
+    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
     "10.6 - Figure 10-4.png",
     "Pasted image 20230228235250.png.md",
-    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
     "Pasted image 20230228235250.png",
     "10.6 - Figure 10-3.png",
     "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
