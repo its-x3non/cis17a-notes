@@ -135,15 +135,6 @@ int *doubleArr(int arr[], const int SIZE)
 	return newArr;
 }
 
-// dislpays
-void displayArr(int *arr, const int SIZE)
-{
-	for (int i = 0; i < SIZE; i++)
-	{
-		cout << *(arr + i) << " ";
-	}
-}
-
 int main()
 {
 	int N = 0;
