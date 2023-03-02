@@ -9,4 +9,4 @@ ill make a table of contents later
 ## [Video Notes]()
 # [Module 3 - Chapter 10](/Module%203/)
 ## [Pearson Notes](/Module%203/Pearson%20Notes)
-## [Video Notes()
+## [Video Notes]()
