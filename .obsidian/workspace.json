@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
+                "file": "Module 4/Pearson Notes/11.2 - Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6927c7261cc9192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 4/Pearson Notes/11.3 - Accessing Structure Members.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cf624f57b00b29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 4/Pearson Notes/11.1 - Abstract Data Types.md"
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md"
               }
             }
           }
@@ -147,12 +172,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8af96298d09bd69",
+  "active": "5cf624f57b00b29a",
   "lastOpenFiles": [
-    "Module 4/Pearson Notes/11.2 - Structures.md",
-    "Module 4/Pearson Notes/11.3 - Accessing Structure Members.md",
     "Module 4/Pearson Notes/11.4 - Initializing a Structure.md",
     "Module 4/Pearson Notes/11.5 - Arrays of Structures.md",
+    "Templates for me to use.md",
+    "Module 4/Pearson Notes/11.3 - Accessing Structure Members.md",
+    "Module 4/Pearson Notes/11.2 - Structures.md",
+    "Module 4/Pearson Notes/! Unit 11 Answers.md",
+    "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 3/Pearson Notes/! Unit 10 Answers.md",
+    "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-2.png",
+    "Module 4/Pearson Notes/11.2 Photos",
+    "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-1.png",
+    "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
     "Module 4/Pearson Notes/11.6 - Focus on Software Engineering - Nested Structures.md",
     "Module 4/Pearson Notes/11.7 - Structures as Function Arguments.md",
     "Module 4/Pearson Notes/11.8 - Returning a Structure from a Function.md",
@@ -160,14 +193,11 @@
     "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
     "Module 4/Pearson Notes/11.11 - Focus on Software Enginnering.md",
     "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
-    "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
     "Module 4/Pearson Notes/11.5 1 1 1 1 1 1 1 1.md",
     "Module 4/Pearson Notes/11..md",
     "Module 3/Pearson Notes/10.1 - Character Testing.md",
-    "Module 3/Pearson Notes/! Unit 10 Answers.md",
     "Module 4/Pearson Notes",
     "Module 4",
-    "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
     "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
     "Module 2/Pearson Notes/! Unit 9 Answers.md",
     "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
@@ -185,15 +215,10 @@
     "Module 3/Pearson Notes/10.4 Photos/10.4 - Table 10-3.png",
     "Module 3/Pearson Notes/10.3 - C-Strings.md",
     "Module 3/Pearson Notes/10.3 Photos/10.3 - The 2 Example Strings.png",
-    "Module 3/Pearson Notes/10.2 - Character Case Conversion.md",
-    "Module 3/Pearson Notes/10.4 Photos/10.4 - Figure 10-2.png",
     "Module 3/Pearson Notes/10.4 Photos",
-    "Module 3/Pearson Notes/10.3 Photos/10.3 - Figure 10-1.png",
     "Module 3/Pearson Notes/10.3 Photos",
     "Module 3/Pearson Notes/10.1 Photos",
-    "Module 2/Pearson Notes/9.11 - Focus on Problem Solving and Program Design - A Case Study.md",
     "Module 3/Pearson Notes",
-    "Module 3/Video Notes",
-    "Module 3"
+    "Module 3/Video Notes"
   ]
 }

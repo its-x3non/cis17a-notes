@@ -45,7 +45,7 @@ I think you got this one. It should be self-explanatory.
 
 ### Question 3
 ```c++
-
+strcmp(s2,s1) < 0
 ```
 
 ## Quiz 10.7
