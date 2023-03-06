@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 4/Pearson Notes/11.2 - Structures.md",
+                "file": "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 4/Pearson Notes/11.2 - Structures.md",
+                "file": "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 4/Pearson Notes/11.2 - Structures.md",
+                "file": "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 4/Pearson Notes/11.2 - Structures.md"
+                "file": "Module 4/Pearson Notes/11.1 - Abstract Data Types.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "c8af96298d09bd69",
   "lastOpenFiles": [
+    "Module 4/Pearson Notes/11.2 - Structures.md",
     "Module 4/Pearson Notes/11.3 - Accessing Structure Members.md",
     "Module 4/Pearson Notes/11.4 - Initializing a Structure.md",
     "Module 4/Pearson Notes/11.5 - Arrays of Structures.md",
@@ -159,7 +160,6 @@
     "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
     "Module 4/Pearson Notes/11.11 - Focus on Software Enginnering.md",
     "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
-    "Module 4/Pearson Notes/11.2 - Structures.md",
     "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
     "Module 4/Pearson Notes/11.5 1 1 1 1 1 1 1 1.md",
     "Module 4/Pearson Notes/11..md",
