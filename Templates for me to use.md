@@ -1,4 +1,4 @@
-I forget easily
+i forgor
 
 # For Output:
 ```c++

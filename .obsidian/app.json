@@ -3,5 +3,8 @@
   "showFrontmatter": false,
   "showLineNumber": false,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./",
+  "useMarkdownLinks": true
 }

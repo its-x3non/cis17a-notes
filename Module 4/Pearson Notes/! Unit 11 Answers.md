@@ -139,3 +139,25 @@ double dist(Point p1, Point p2)
     return(sqrt(x+y));
 }
 ```
+
+## Quiz 11.8
+### Question 1
+```c++
+Point getPoint()
+{
+    Point temp;
+    cin >> temp.x >> temp.y;
+    return temp;
+}
+```
+
+### Question 2
+```c++
+Money normalize(Money original)
+{
+    original.dollars = original.dollars + original.cents/100;
+    original.cents = original.cents % 100;
+    
+    return original;
+}
+```
