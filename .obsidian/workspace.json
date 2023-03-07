@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
+                "file": "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
+                "file": "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
+                "file": "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 4/Pearson Notes/11.10 - Pointers to Structures.md"
+                "file": "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md"
               }
             }
           }
@@ -149,21 +149,28 @@
   },
   "active": "c6927c7261cc9192",
   "lastOpenFiles": [
+    "Module 4/Pearson Notes/11.11 - Focus on Software Enginnering.md",
+    "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
+    "! templates and stuff for me to remember.md",
+    "Module 4/Video Notes/1) 4-1 - Structured Data.md",
+    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
+    "Module 3/Pearson Notes/10.4 - Library Functions for Working with C-Strings.md",
+    "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
+    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
+    "Module 3/Pearson Notes/10.3 - C-Strings.md",
+    "Module 4/Pearson Notes/11.2 - Structures.md",
+    "Module 4/Pearson Notes/11.7 - Structures as Function Arguments.md",
+    "Module 4/Pearson Notes/11.9 - Using Structured Bindings with Structures.md",
     "Module 4/Pearson Notes/11.10 Photos/11.10 - Figure 11-4.png",
     "Module 4/Pearson Notes/11.10 Photos",
-    "Module 4/Pearson Notes/11.9 - Using Structured Bindings with Structures.md",
-    "Templates for me to use.md",
     "Module 4/Pearson Notes/! Unit 11 Answers.md",
     "Module 4/Pearson Notes/11.8 - Returning a Structure from a Function.md",
     "Module 4/Pearson Notes/11.3 Accessing Structure Members Program 11-2.md",
     "Module 4/Pearson Notes/11.3 - Accessing Structure Members.md",
-    "Module 4/Pearson Notes/11.7 - Structures as Function Arguments.md",
     "Module 4/Pearson Notes/11.4 - Initializing a Structure.md",
     "Module 4/Pearson Notes/11.6 - Focus on Software Engineering - Nested Structures.md",
     "Module 4/Pearson Notes/11.7 Photos",
     "Module 4/Pearson Notes/11.7 Photos/11.7 - Figure 11-3.png",
-    "Module 4/Video Notes/1) 4-1 - Structured Data.md",
-    "Module 4/Pearson Notes/11.2 - Structures.md",
     "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
     "Module 4/Pearson Notes/11.3 - Accessing Structure.md",
     "[Comparing.md",
@@ -177,15 +184,9 @@
     "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-2.png",
     "Module 4/Pearson Notes/11.2 Photos",
     "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-1.png",
-    "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
-    "Module 4/Pearson Notes/11.11 - Focus on Software Enginnering.md",
     "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
-    "Module 4/Pearson Notes/11.5 1 1 1 1 1 1 1 1.md",
-    "Module 4/Pearson Notes/11..md",
-    "Module 3/Pearson Notes/10.1 - Character Testing.md",
     "Module 4/Pearson Notes",
     "Module 4",
-    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
     "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (3).png",
     "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (2).png",
     "Module 3/Pearson Notes/10.6 Photos/10.6 - Figure 10-3.png",
@@ -193,7 +194,6 @@
     "Module 3/Pearson Notes/10.6 Photos",
     "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (1).png",
     "Module 3/Pearson Notes/10.6 Photos/10.6 - Figure 10-4.png",
-    "Pasted image 20230228235250.png",
     "Module 3/Pearson Notes/10.4 Photos"
   ]
 }
