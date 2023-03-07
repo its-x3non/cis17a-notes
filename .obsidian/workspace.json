@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 4/Pearson Notes/11.2 - Structures.md",
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5cf624f57b00b29a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,22 +159,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5cf624f57b00b29a",
+  "active": "c8af96298d09bd69",
   "lastOpenFiles": [
-    "Module 4/Pearson Notes/11.4 - Initializing a Structure.md",
-    "Module 4/Pearson Notes/11.5 - Arrays of Structures.md",
+    "Module 4/Pearson Notes/11.7 - Structures as Function Arguments.md",
+    "Module 4/Pearson Notes/! Unit 11 Answers.md",
+    "Module 4/Pearson Notes/11.6 - Focus on Software Engineering - Nested Structures.md",
     "Templates for me to use.md",
+    "Module 4/Pearson Notes/11.7 Photos",
+    "Module 4/Pearson Notes/11.7 Photos/11.7 - Figure 11-3.png",
+    "Module 4/Video Notes/1) 4-1 - Structured Data.md",
+    "Module 4/Pearson Notes/11.4 - Initializing a Structure.md",
     "Module 4/Pearson Notes/11.3 - Accessing Structure Members.md",
     "Module 4/Pearson Notes/11.2 - Structures.md",
-    "Module 4/Pearson Notes/! Unit 11 Answers.md",
+    "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
+    "Module 4/Pearson Notes/11.3 - Accessing Structure.md",
+    "[Comparing.md",
+    "Module 4/Pearson Notes/11.5 - Arrays of Structures.md",
+    "Module 4/Video Notes/4-1 Photos",
+    "Module 4/Video Notes/4-1 Photos/4-1 - Defining Variables Photo.png",
+    "Module 2/Video Notes/(1) Pointer Basics.md",
+    "Module 4/Video Notes",
     "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
     "Module 3/Pearson Notes/! Unit 10 Answers.md",
     "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-2.png",
     "Module 4/Pearson Notes/11.2 Photos",
     "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-1.png",
-    "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
-    "Module 4/Pearson Notes/11.6 - Focus on Software Engineering - Nested Structures.md",
-    "Module 4/Pearson Notes/11.7 - Structures as Function Arguments.md",
     "Module 4/Pearson Notes/11.8 - Returning a Structure from a Function.md",
     "Module 4/Pearson Notes/11.9 - Using Structured Bindings with Structures.md",
     "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
@@ -200,8 +196,6 @@
     "Module 4",
     "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
     "Module 2/Pearson Notes/! Unit 9 Answers.md",
-    "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
-    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
     "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (3).png",
     "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (2).png",
     "Module 3/Pearson Notes/10.6 Photos/10.6 - Figure 10-3.png",
@@ -209,16 +203,8 @@
     "Module 3/Pearson Notes/10.6 Photos",
     "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (1).png",
     "Module 3/Pearson Notes/10.6 Photos/10.6 - Figure 10-4.png",
-    "Pasted image 20230228235250.png.md",
     "Pasted image 20230228235250.png",
-    "Module 3/Pearson Notes/10.4 - Library Functions for Working with C-Strings.md",
-    "Module 3/Pearson Notes/10.4 Photos/10.4 - Table 10-3.png",
-    "Module 3/Pearson Notes/10.3 - C-Strings.md",
-    "Module 3/Pearson Notes/10.3 Photos/10.3 - The 2 Example Strings.png",
     "Module 3/Pearson Notes/10.4 Photos",
-    "Module 3/Pearson Notes/10.3 Photos",
-    "Module 3/Pearson Notes/10.1 Photos",
-    "Module 3/Pearson Notes",
-    "Module 3/Video Notes"
+    "Module 3/Pearson Notes/10.3 Photos"
   ]
 }

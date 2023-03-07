@@ -73,7 +73,7 @@ else
 }
 ```
 
-## 11.4
+## Quiz 11.4
 ### Question 1
 ```c++
 struct Money
@@ -83,4 +83,59 @@ struct Money
 
 Money salesAnnual {1325023,47};
 
+```
+
+## Quiz 11.5
+### Question 1
+```c++
+Money monthlySales[12];
+```
+
+### Question 2
+```c++
+yearlySales.dollars = yearlySales.cents = 0;
+for(int i = 0; i < 12; i++)
+{
+    yearlySales.dollars += monthlySales[i].dollars;
+    yearlySales.cents += monthlySales[i].cents;
+}
+yearlySales.dollars += yearlySales.cents/100; 
+yearlySales.cents %= 100;
+```
+
+## Quiz 11.6
+### Question 1
+```c++
+struct StockItem
+{
+    string supplier, productName;
+    int catalogNumber;
+};
+
+struct Customer
+{
+    string name, streetAddress, city, postalCode, phone;
+};
+
+struct Purchase
+{
+    Customer buyer;
+    StockItem itemSold;
+    Date dateOfSale;
+    Money paid;
+    bool returnable;
+};
+
+```
+
+## Quiz 11.7
+### Question 1
+I fucking hate this question and it's only 11.7
+```c++
+double dist(Point p1, Point p2)
+{
+    double x = (p1.x - p2.x)*(p1.x-p2.x);
+    double y = (p1.y - p2.y)*(p1.y-p2.y);
+    return(sqrt(x+y));
+}
 ```
