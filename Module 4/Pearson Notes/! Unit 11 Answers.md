@@ -194,7 +194,7 @@ int main()
     {
         bool flagCheck = false;
 
-        //convert each of the word into lower case
+        //set words equal to each other
         setEqual(word);
 
         for (int i = 0; i < size; i++)
