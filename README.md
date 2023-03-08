@@ -1,5 +1,5 @@
-# cis15 notes lol
-ill make a table of contents later
+# CIS 15 Notes
+yippie
 
 # [Module 1 - Chapter 8](/Module%201/)
 ## [Pearson Notes](/Module%201/Pearson%20Notes)
@@ -13,3 +13,5 @@ ill make a table of contents later
 # [Module 4 - Chapter 11](/Module%204/)
 ## [Pearson Notes](/Module%204/Pearson%20Notes)
 ## [Video Notes](/Module%204/Video%20Notes)
+
+[Click me](http://www.google.com){: .btn}
