@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md"
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md"
               }
             }
           }
@@ -149,38 +149,38 @@
   },
   "active": "c6927c7261cc9192",
   "lastOpenFiles": [
-    "! templates and stuff for me to remember.md",
-    "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
-    "Module 4/Pearson Notes/! Unit 11 Answers.md",
-    "README.md",
-    "Module 4/Video Notes/1) 4-1 - Structured Data.md",
-    "Module 3/Pearson Notes/10.1 - Character Testing.md",
-    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
-    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
-    "Module 3/Pearson Notes/10.3 - C-Strings.md",
-    "Module 4/Pearson Notes/11.2 - Structures.md",
-    "Module 4/Pearson Notes/11.7 - Structures as Function Arguments.md",
     "Module 4/Pearson Notes/11.8 - Returning a Structure from a Function.md",
     "Module 4/Pearson Notes/11.9 - Using Structured Bindings with Structures.md",
     "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
     "Module 4/Pearson Notes/11.11 - Focus on Software Enginnering.md",
-    "Module 3/Pearson Notes/10.4 - Library Functions for Working with C-Strings.md",
+    "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
+    "Module 2/Pearson Notes/9.10 - Using Smart Pointers to Avoid Memory Leaks.md",
+    "Module 2/Pearson Notes/9.11 - Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 2/Pearson Notes/9.2 - Pointer Varibles.md",
+    "Module 2/Pearson Notes/9.1 - Getting the Address of a Variable.md",
+    "Module 4/Pearson Notes/11.2 - Structures.md",
+    "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
+    "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
+    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
     "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
-    "Module 4/Pearson Notes/11.10 Photos/11.10 - Figure 11-4.png",
-    "Module 4/Pearson Notes/11.10 Photos",
-    "Module 4/Pearson Notes/11.3 Accessing Structure Members Program 11-2.md",
+    "Module 3/Pearson Notes/10.4 - Library Functions for Working with C-Strings.md",
+    "Module 3/Pearson Notes/10.3 - C-Strings.md",
+    "Module 4/Pearson Notes/11.5 - Arrays of Structures.md",
     "Module 4/Pearson Notes/11.3 - Accessing Structure Members.md",
     "Module 4/Pearson Notes/11.4 - Initializing a Structure.md",
-    "Module 4/Pearson Notes/11.6 - Focus on Software Engineering - Nested Structures.md",
+    "Module 3/Pearson Notes/10.2 - Character Case Conversion.md",
+    "Module 3/Pearson Notes/10.1 - Character Testing.md",
+    "! templates and stuff for me to remember.md",
+    "Module 4/Pearson Notes/! Unit 11 Answers.md",
+    "README.md",
+    "Module 4/Video Notes/1) 4-1 - Structured Data.md",
+    "Module 4/Pearson Notes/11.10 Photos/11.10 - Figure 11-4.png",
+    "Module 4/Pearson Notes/11.10 Photos",
     "Module 4/Pearson Notes/11.7 Photos",
     "Module 4/Pearson Notes/11.7 Photos/11.7 - Figure 11-3.png",
-    "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
-    "Module 4/Pearson Notes/11.3 - Accessing Structure.md",
-    "[Comparing.md",
-    "Module 4/Pearson Notes/11.5 - Arrays of Structures.md",
     "Module 4/Video Notes/4-1 Photos",
     "Module 4/Video Notes/4-1 Photos/4-1 - Defining Variables Photo.png",
-    "Module 2/Video Notes/(1) Pointer Basics.md",
     "Module 4/Video Notes",
     "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-2.png",
     "Module 4/Pearson Notes/11.2 Photos",
