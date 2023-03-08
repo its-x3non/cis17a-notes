@@ -103,3 +103,83 @@ Student stuList[NUM_STUDENTS];
 ```
 - Individual structures accessible using subscript notation
 - Fields within structures accessible using `dot` notation: `cout << stuList[5].studentID;`
+
+# [11.6 - Nested Structures](/Module%204/Pearson%20Notes/11.6%20-%20Focus%20on%20Software%20Engineering%20-%20Nested%20Structures)
+## Nested Structures
+- A structure can contain another structure as a member:
+```c++
+struct PersonInfo
+{
+	string name, address, city;
+};
+
+struct Student
+{
+	int studentID;
+	PersonInfo pData;
+	short yearInSchool;
+	double gpa;
+}
+```
+[Another Example](/Module%204/Pearson%20Notes/11.6%20-%20Focus%20on%20Software%20Engineering%20-%20Nested%20Structures#Nested%20Example)
+
+## Members of Nested Structures
+- Use the dot `(.)` operator multiple times to refer to fields of nested structures:
+```c++
+Student s;
+s.pData.name = "Joanne";
+s.pData.city = "Tulsa";
+```
+
+## [Structures as Function Arguments](/Module%204/Pearson%20Notes/11.7%20-%20Structures%20as%20Function%20Arguments)
+- May pass members of `struct` variables to functions:
+```c++
+computeGPA(stu.gpa);
+```
+- May pass entire `struct` variables to functions:
+```c++
+showData(stu);
+```
+- Can use reference parameter if function needs to modify contents of structure variable.
+
+## Structure as Function Arguments - Notes
+- Using value parameter for structure can slow down a program, waste space
+- Using a reference parameter will speed up program, but function may change data in structure
+- Using a `const` reference parameter allows read-only access to reference parameter, doesn't waste space, very speedy
+
+# [11.8 - Returning a Structure from a Function](/Module%204/Pearson%20Notes/11.8%20-%20Returning%20a%20Structure%20from%20a%20Function)
+## Returning a Structure from a Function
+- Function can return a `struct`:
+```c++
+Student getStudentData();   // protype
+stu1 = getStudentData();    // call
+```
+- Function must define a local structure
+	- For internal use
+	- For use with `return` statement
+
+# [11.9 - Pointers to Structures](/Module%204/Pearson%20Notes/11.10%20-%20Pointers%20to%20Structures)
+## Pointers to Structures
+- A structure variable has an address
+- Pointers to structures are variables that can hold the address of a structure:
+```c++
+Student *stuPtr;
+```
+- Can use `&` operator to assign address:
+```c++
+stuPtr = & stu1;
+```
+- Structure pointer can be a function parameter
+
+## Accessing Structure Members via Pointer Variable
+- Must use `()` to dereference pointer variable, not field within structure:
+```c++
+cout << (*stuPtr).studentID;
+```
+- The dot `(.)` is used for actually referencing a struct/object
+- Can use structure pointer operator to eliminate `()` and use clearer notation:
+```c++
+cout << stuPtr->studentID;
+```
+- The arrow `(->)` is used for referencing the pointer going to the dereference and then getting the property we are looking for.
+#### [When to use the dot or arrow operators](/Module%204/Pearson%20Notes/11.11%20-%20Focus%20on%20Software%20Engineering)
