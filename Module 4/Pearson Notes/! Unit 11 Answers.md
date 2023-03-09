@@ -273,6 +273,6 @@ void setEqual(string x)
 }
 ```
 
-fuck you i hate this chapter 
+i hate this programming project
 
 #### [Next Section (Next Chapter)](/Module%205/Pearson%20Notes/12.1%20-%20File%20Operations.md)
