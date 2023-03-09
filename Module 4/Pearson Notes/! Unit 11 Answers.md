@@ -46,6 +46,8 @@ Money expenses;
 Money profit;
 ```
 
+#### [Next Section (11.3)](/Module%204/Pearson%20Notes/11.3%20-%20Accessing%20Structure%20Members.md)
+
 ## Quiz 11.3
 ### Question 1
 ```c++
@@ -76,6 +78,8 @@ else
 }
 ```
 
+#### [Next Section (11.4)](/Module%204/Pearson%20Notes/11.4%20-%20Initializing%20a%20Structure.md)
+
 ## Quiz 11.4
 ### Question 1
 ```c++
@@ -87,6 +91,8 @@ struct Money
 Money salesAnnual {1325023,47};
 
 ```
+
+#### [Next Section (11.5)](/Module%204/Pearson%20Notes/11.5%20-%20Arrays%20of%20Structures.md) 
 
 ## Quiz 11.5
 ### Question 1
@@ -105,6 +111,8 @@ for(int i = 0; i < 12; i++)
 yearlySales.dollars += yearlySales.cents/100; 
 yearlySales.cents %= 100;
 ```
+
+[Next Section (11.6)](/Module%204/Pearson%20Notes/11.6%20-%20Focus%20on%20Software%20Engineering%20-%20Nested%20Structures.md)
 
 ## Quiz 11.6
 ### Question 1
@@ -131,6 +139,8 @@ struct Purchase
 
 ```
 
+#### [Next Section (11.7)](/Module%204/Pearson%20Notes/11.7%20-%20Structures%20as%20Function%20Arguments.md)
+
 ## Quiz 11.7
 ### Question 1
 I fucking hate this question and it's only 11.7
@@ -142,6 +152,8 @@ double dist(Point p1, Point p2)
     return(sqrt(x+y));
 }
 ```
+
+#### [Next Section (11.8)](/Module%204/Pearson%20Notes/11.8%20-%20Returning%20a%20Structure%20from%20a%20Function.md)
 
 ## Quiz 11.8
 ### Question 1
@@ -164,6 +176,8 @@ Money normalize(Money original)
     return original;
 }
 ```
+
+#### [Next Section (11.9)](/Module%204/Pearson%20Notes/11.9%20-%20Using%20Structured%20Bindings%20with%20Structures.md)
 
 ## Programming Project
 ```c++
@@ -261,3 +275,5 @@ void setEqual(string x)
 ```
 
 fuck you i hate this chapter 
+
+#### [Next Section (Next Chapter)](/Module%205/Pearson%20Notes/12.1%20-%20File%20Operations.md)
