@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 4/Pearson Notes/11.10 - Pointers to Structures.md"
+                "file": "Module 4/Pearson Notes/! Unit 11 Answers.md"
               }
             }
           }
@@ -149,18 +149,19 @@
   },
   "active": "aa73d129a5993fd7",
   "lastOpenFiles": [
+    "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
+    "Module 4/Pearson Notes/11.2 - Structures.md",
+    "Module 4/Pearson Notes/11.3 - Accessing Structure Members.md",
+    "Module 4/Pearson Notes/11.4 - Initializing a Structure.md",
+    "Module 4/Pearson Notes/11.5 - Arrays of Structures.md",
+    "Module 4/Pearson Notes/11.6 - Focus on Software Engineering - Nested Structures.md",
+    "Module 4/Pearson Notes/11.7 - Structures as Function Arguments.md",
+    "Module 4/Pearson Notes/11.8 - Returning a Structure from a Function.md",
+    "Module 4/Pearson Notes/11.9 - Using Structured Bindings with Structures.md",
+    "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
     "Module 4/Pearson Notes/11.11 - Focus on Software Engineering.md",
     "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
-    "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
-    "Module 4/Pearson Notes/11.9 - Using Structured Bindings with Structures.md",
-    "Module 4/Pearson Notes/11.8 - Returning a Structure from a Function.md",
-    "Module 4/Pearson Notes/11.7 - Structures as Function Arguments.md",
-    "Module 4/Pearson Notes/11.6 - Focus on Software Engineering - Nested Structures.md",
-    "Module 4/Pearson Notes/11.5 - Arrays of Structures.md",
-    "Module 4/Pearson Notes/11.4 - Initializing a Structure.md",
-    "Module 4/Pearson Notes/11.3 - Accessing Structure Members.md",
-    "Module 4/Pearson Notes/11.2 - Structures.md",
-    "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
+    "Module 4/Pearson Notes.md",
     "Module 4/Pearson Notes/! Unit 11 Answers.md",
     "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
     "Module 5/Pearson Notes/12.2 - File Output Formatting.md",
@@ -174,7 +175,6 @@
     "Module 4/Pearson Notes/11.10 - Pointers to Strctures.md",
     "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A.md",
     "Module 3/Pearson Notes/10.1 - Character Testing.md",
-    "Module 3/Pearson Notes/10.2 - Character Case Conversion.md",
     "Module 5/Video Notes",
     "Module 5/Pearson Notes",
     "Module 5",
