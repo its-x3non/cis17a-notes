@@ -1,4 +1,4 @@
-# CIS 15 Notes
+# CIS 17A Notes (for Spring 2023)
 Please only use this as a reference. 
 I am not responsible for you cheating on your programming projects. I am here to provide a resource so you don't have to navigate back and forth through **Pearson** searching for notes you need.
 
