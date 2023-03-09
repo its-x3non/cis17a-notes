@@ -15,3 +15,4 @@ i forgor
 
 # Markdown Editing
 `<br />` for breaking lines
+`-----` for horizontal line

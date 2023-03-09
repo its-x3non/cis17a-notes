@@ -1,5 +1,6 @@
 # Unit 11 Quiz/Test Answers
-## Quiz 11.2 - You shouldn't really be struggling with this quiz
+## Quiz 11.2
+You shouldn't really be struggling with this quiz
 ### Question 1
 ```c++
 struct Book
@@ -21,7 +22,8 @@ struct Money
 Book bestSeller;
 ```
 
-### Question 4 - Choose 1 of the 2
+### Question 4
+Choose 1 of the 2
 ```c++
 DATE enrolled_on;
 DATE paid_on;
@@ -32,7 +34,8 @@ DATE completed_on;
 DATE enrolled_on, paid_on, completed_on;
 ```
 
-### Question 5 - Choose 1 of the 2
+### Question 5
+Choose 1 of the 2
 ```c++
 Money revenue, expenses, profit;
 
@@ -171,7 +174,7 @@ using namespace std;
 int main()
 {
 	int x = 1;
-	string text = "i hate this programing project";
+	string text = "i hate this programming project";
 	
 	// infinite loop 
 	for(int i = 0; i < x; i++)
