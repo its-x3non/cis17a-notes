@@ -8,7 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d9560c4ded6f1e9",
+            "id": "aa73d129a5993fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 5/Pearson Notes/12.8 - Creating Records with Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7eb53d3c0a1fff9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 5/Pearson Notes/12.9 - Random-Access Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ae9ff0d6e0fc125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 5/Pearson Notes/12.9 - Random-Access Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9849296de68820a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,11 +184,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d9560c4ded6f1e9",
+  "active": "9849296de68820a5",
   "lastOpenFiles": [
+    "Module 5/Pearson Notes/12.11 - Working with the File System.md",
+    "Module 5/Pearson Notes/12.10 - Opening a File for Both Input and Output.md",
+    "Module 5/Pearson Notes/12.9 - Random-Access Files.md",
+    "Module 5/Pearson Notes/12.8 - Creating Records with Structures.md",
+    "Module 5/Pearson Notes/12.7 - Binary Files.md",
+    "Module 5/Pearson Notes/12.6 - Focus on Software Engineering - Working with Multiple Files.md",
+    "Module 5/Pearson Notes/12.5 - Member Functions for Reading and Writing Files.md",
+    "Module 5/Pearson Notes/12.4 - More Detailed Error Testing.md",
+    "Module 5/Pearson Notes/12.3 - Passing File Stream Objects to Functions.md",
+    "Module 5/Pearson Notes/12.2 - File Output Formatting.md",
+    "Module 5/Pearson Notes/12.1 - File Operations.md",
+    "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
     "! templates and stuff for me to remember.md",
-    "Module 4/Pearson Notes/! Unit 11 Answers.md",
     "README.md",
+    "Module 5/Video Notes",
+    "Module 5/Pearson Notes",
+    "Module 5",
+    "Module 4/Pearson Notes/! Unit 11 Answers.md",
     "Module 2/Pearson Notes/9.10 - Using Smart Pointers to Avoid Memory Leaks.md",
     "Module 4/Video Notes/(3) 4-3 - Enums.md",
     "Module 4/Video Notes/(1) 4-1 - Structured Data.md",
@@ -163,21 +215,9 @@
     "Module 4/Pearson Notes/11.8 - Returning a Structure from a Function.md",
     "Module 4/Pearson Notes/11.9 - Using Structured Bindings with Structures.md",
     "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
-    "Module 4/Pearson Notes/11.11 - Focus on Software Engineering.md",
-    "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
-    "Module 4/Video Notes/(2) 4-2 - Unions.md",
-    "Module 4/Pearson Notes/11.1 - Abstract Data Types.md",
-    "Module 4/Pearson Notes/11.3 - Accessing Structure Members.md",
-    "Module 4/Pearson Notes/11.12 Enumerated Data Types.md",
-    "Module 4/Pearson Notes/11.11 -.md",
-    "(/Module 4/Pearson Notes/11.8 - Returning a Structure from a Function.md",
     "(/Module 4/Pearson Notes",
     "(/Module 4",
     "(",
-    "Module 4/Pearson Notes/11.6 - Focus on Software Engineering.md",
-    "Module 2/Pearson Notes/9.2 - Pointer Varibles.md",
-    "Module 2/Pearson Notes/9.1 - Getting the Address of a Variable.md",
-    "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
     "Module 4/Pearson Notes/11.10 Photos/11.10 - Figure 11-4.png",
     "Module 4/Pearson Notes/11.10 Photos",
     "Module 4/Pearson Notes/11.7 Photos",
@@ -186,10 +226,7 @@
     "Module 4/Video Notes/4-1 Photos/4-1 - Defining Variables Photo.png",
     "Module 4/Video Notes",
     "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-2.png",
-    "Module 4/Pearson Notes/11.2 Photos",
     "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-1.png",
-    "Module 4/Pearson Notes",
-    "Module 4",
     "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (3).png",
     "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (2).png",
     "Module 3/Pearson Notes/10.6 Photos/10.6 - Figure 10-3.png",
