@@ -1,7 +1,7 @@
 {
   "strictLineBreaks": false,
   "showFrontmatter": false,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
