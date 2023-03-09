@@ -1,7 +1,4 @@
-# Unit 10 Quiz + Test Answers
-Only use these if you're actually REALLY struggling
-
-## Quiz 10.1
+## Quiz 10-1
 ### Question 1
 ```c++
 while(cin >> c)
@@ -10,7 +7,7 @@ while(cin >> c)
 }
 ```
 
-## Quiz 10.3
+## Quiz 10-3
 ### Question 1
 ```c++
 const int SIZE = 50;
@@ -33,7 +30,7 @@ for(int i = 0; i < SIZE; i++)
 char stooges[3][6] = {"moe", "larry", "curly"};
 ```
 
-## Quiz 10.4
+## Quiz 10-4
 ### Question 1
 ```c++
 s == "end"
@@ -48,7 +45,7 @@ I think you got this one. It should be self-explanatory.
 strcmp(s2,s1) < 0
 ```
 
-## Quiz 10.7
+## Quiz 10-7
 ### Question 1
 ```c++
 name[0]
@@ -70,7 +67,7 @@ word.substr(0,3)
 s.substr(2,8)
 ```
 
-# Unit 10 Test
+# Programming Project
 ```C++
 #include <iostream>
 #include <fstream>

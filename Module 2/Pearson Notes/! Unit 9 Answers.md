@@ -1,11 +1,10 @@
-# Unit 9 Quiz Answers
-## Quiz 9.1
+## Quiz 9-1
 ### Question 1
 ```c++
 &diff
 ```
 
-## Quiz 9.2
+## Quiz 9-2
 ### Question 1
 ```c++
 int *ip;
@@ -31,7 +30,7 @@ counterPointer = &counter;
 *strikeCounter += 22;
 ```
 
-## Quiz 9.3
+## Quiz 9-3
 ### Question 1
 ```c++
 ip = &enrollment[0];
@@ -47,7 +46,7 @@ ip = &enrollment[19];
 ip = &enrollment[section];
 ```
 
-## Quiz 9.4
+## Quiz 9-4
 ### Question 1
 ```c++
 *ip +1
@@ -68,7 +67,7 @@ ip++;
 jp = ip + 5;
 ```
 
-## Quiz 9.7
+## Quiz 9-7
 ### Question 1
 ```c++
 zeroIt(&x);
@@ -87,7 +86,7 @@ void zeroIt(int *x)
 }
 ```
 
-## Quiz 9.8
+## Quiz 9-8
 ### Question 1
 ```c++
 new int
@@ -114,7 +113,7 @@ for(int k = 10; k < 20; k++)
 	arr2[k] = 0;
 ```
 
-# Unit 9 Test Answer
+# Programming Project
 ```c++
 #include <fstream>
 #include <iostream>
