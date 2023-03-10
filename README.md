@@ -1,12 +1,12 @@
 # CIS 17A Notes (for Spring 2023)
-Please only use this as a reference. 
+Please only use this as a reference. <br />
 I am not responsible for you cheating on your programming projects. I am here to provide a resource so you don't have to navigate back and forth through **Pearson** searching for notes you need.
 
 ## Guide:
-✅ - Finished (Video Notes + Pearson Notes)
-🆗 - Semi-finished (Pearson or just Video Notes)
-⚠️ - Work In Progress (In progress of doing Video or Pearson Notes)
-❌ - Not Started
+✅ - Finished (Video Notes + Pearson Notes) <br />
+🆗 - Semi-finished (Pearson or just Video Notes) <br />
+⚠️ - Work In Progress (In progress of doing Video or Pearson Notes) <br />
+❌ - Not Started <br />
 
 # Table of Contents (Last Updated: 3/9/2023)
 ## [✅ Module 1 - Chapter 8: Searching And Sorting Arrays](/Module%201/)
