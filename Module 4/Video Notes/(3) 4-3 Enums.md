@@ -1,4 +1,5 @@
-# [11.12 - Enumerated Data Types](/Module%204/Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md)
+#Module4 #VideoNotes 
+# [11.12 - Enumerated Data Types](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md)
 A lot of what he discussed here can be found more in detail in 11.12, which you can click on the title to go there.
 ## Enumerated Data Types
 ### (1 of 9)
@@ -39,7 +40,7 @@ cout << MONDAY << " " << WEDNESDAY << " " << FRIDAY << endl;
 // 0 2 4
 ```
 
-## [Assigning an Integer to an `enum` Variable](/Module%204/Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Assigning-an-Integer-to-an-enum-Variable)
+## [Assigning an Integer to an `enum` Variable](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Assigning-an-Integer-to-an-enum-Variable)
 - You cannot directly assign an integer value to an `enum` variable.
 ```c++
 workDay = 3; // error
@@ -49,7 +50,7 @@ workDay = 3; // error
 workDay = static_cast<Day>(3);
 ```
 
-## [Assigning an Enumerator to an `int` Variable](/Module%204/Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Assigning-an-Enumerator-to-an-int-Variable)
+## [Assigning an Enumerator to an `int` Variable](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Assigning-an-Enumerator-to-an-int-Variable)
 - You **can** assign an enumerator to an `int` variable:
 ```c++
 int x;
@@ -57,7 +58,7 @@ x = THURSDAY;
 // x will be = to 3
 ```
 
-## [Comparing Enumerator Values](/Module%204/Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Comparing-Enumerator-Values)
+## [Comparing Enumerator Values](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Comparing-Enumerator-Values)
 - Enumerator values can be compared using the relational operators. 
 ```c++
 if (FRIDAY > MONDAY)
@@ -66,7 +67,7 @@ if (FRIDAY > MONDAY)
 }
 ```
 
-## [Using Math Operators with `enum` Variables](/Module%204/Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Using-Math-Operators-to-Change-the-Value-of-an-enum-Variable)
+## [Using Math Operators with `enum` Variables](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Using-Math-Operators-to-Change-the-Value-of-an-enum-Variable)
 ### (1 of 2)
 - You can run into problems when trying to perform math operations with `enum` variables.
 ```c++
@@ -81,7 +82,7 @@ day2 = day1 + 1; // Will not work
 day2 = static_cast<Day>(day1 + 1);
 ```
 
-## [Using an `enum` Variable to Step through an Array's Elements](/Module%204/Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Using-an-enum-Variable-to-Step-through-an-Array's-Elements)
+## [Using an `enum` Variable to Step through an Array's Elements](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Using-an-enum-Variable-to-Step-through-an-Array's-Elements)
 ### (1 of 3)
 - Because enumerators are stored in memory as integers, you can use them as array subscripts. For example:
 ```c++
@@ -116,7 +117,7 @@ for (workDay = MONDAY; workDay <= FRIDAY;               work
 }
 ```
 
-## [Enumerators Must Be Unique Within the Same Scope](/Module%204/Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Enumerators-Must-Be-Unique-within-the-Same-Scope)
+## [Enumerators Must Be Unique Within the Same Scope](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Enumerators-Must-Be-Unique-within-the-Same-Scope)
 - Enumerators must be unique within the same scope.
 - For example:
 ```c++
@@ -124,7 +125,7 @@ enum Presidents { MCKINLEY, ROOSEVELT, TAFT }; enum VicePresidents { RO
 ```
 - An error will result if both of the following enumerated types are declared within the same scope. In the example, `ROOSEVELT` is declared twice, which will result in an error.
 
-## [Using Strongly Typed `enum`s in C++ 11](/Module%204/Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Strong-Type-enums)
+## [Using Strongly Typed `enum`s in C++ 11](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Strong-Type-enums)
 - In C++ 11, you can use a new type of `enum`, which is known as a **strongly typed `enum`**.
 - This allows you to have multiple enumerators in the same scope with the same name:
 ```c++
@@ -139,14 +140,14 @@ Presidents prez = Presidents::ROOSEVELT; VicePresidents vp = VicePresident
 int x = static_cast<int>(Presidents::ROOSEVELT);
 ```
 
-## [Declaring the Type and Defining the Variables in One Statement](/Module%204/Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Declaring-the-Type-and-Defining-the-Variables-in-One-Statement)
+## [Declaring the Type and Defining the Variables in One Statement](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Declaring-the-Type-and-Defining-the-Variables-in-One-Statement)
 - You can declare an enumerated data type and define one or more variables of the type in the same statement. For example:
 ```c++
 enum Car { PORSCHE, FERRARI, JAGUAR } sportsCar;
 ```
 - This code declares the `Car` data type and defines a variable named `sportsCar`.
 
-## [Anonymous Enumerated Types](/Module%204/Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Anonymous-Enumerated-Types)
+## [Anonymous Enumerated Types](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md#Anonymous-Enumerated-Types)
 - An **anonymous enumerated type** is simply one that does not have a name.
 - For example:
 ```c++

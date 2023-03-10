@@ -1,9 +1,11 @@
 #Module2 #VideoNotes
-# 9.3 - The Relationship between Arrays and Pointers 
+# (2) Arrays and Pointers
+A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on the title to go there.
+# [9.3 - The Relationship Between Arrays and Pointers](../Pearson%20Notes/9.3%20-%20The%20Relationship%20Between%20Arrays%20and%20Pointers.md)
 ## The Relationship between Arrays and Pointers 
 ### (1 of 2)
 - Array name is starting address of array
-![Pointers And Arrays - The Relation Ship between Arrays and Pointers 1](/Module%202/Video%20Notes/(2)%20Pointers%20And%20Arrays%20Photos/Pointers%20and%20Arrays%20-%20The%20Relationship%20between%20Arrays%20and%20Pointers%201.png)
+![](2%20-%20Pointers%20and%20Arrays%20Photos/Pointers%20and%20Arrays%20-%20The%20Relationship%20between%20Arrays%20and%20Pointers%201.png)
 ```c++
 // This program shows an array name being dereferenced with the *
 // operator.
@@ -95,7 +97,7 @@ int main()
 }
 ```
 
-## Pointer Arithmetic
+## [Pointer Arithmetic](../Pearson%20Notes/9.4%20-%20Pointer%20Arithmetic.md)
 - Operations on Pointer Variables:
 | Operation                  | Example                               |
 | -------------------------- | ------------------------------------- |
@@ -110,7 +112,7 @@ int main()
 |                            | //difference between (number of ints) |
 |                            | //between valptr and val              |
 
-# 9.5 - Initializing Pointers
+# [9.5 - Initializing Pointers](../Pearson%20Notes/9.5%20-%20Initializing%20Pointers.md)
 - Can initialized at definition time:
 ```c++
 int num, *numptr = &num;

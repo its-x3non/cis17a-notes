@@ -1,7 +1,7 @@
 #Module4 #VideoNotes
-# 4-1 - Structured Data
-A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](/Module%204/Pearson%20Notes), which you can click on the title to go there.
-## [11.1 - Abstract Data Types](/Module%204/Pearson%20Notes/11.1%20-%20Abstract%20Data%20Types.md)
+# 4-1 Structured Data
+A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on the title to go there.
+## [11.1 - Abstract Data Types](../Pearson%20Notes/11.1%20-%20Abstract%20Data%20Types.md)
 ### Abstract Data Types
 - A data type that specifies
 	- Values that can be stored
@@ -14,7 +14,7 @@ A lot of what he discussed here can be found more in detail in certain sections 
 	- Example: An abstract triangle is a 3-sided polygon. A specific triangle may be scalene, isosceles, or equilateral.
 - **Data Type** defines the values that can be stored in a variable and the operations that can be performed on it.
 
-## [11.2 - Combining Data into Structures](/Module%204/Pearson%20Notes/11.2%20-%20Structures.md)
+## [11.2 - Combining Data into Structures](../Pearson%20Notes/11.2%20-%20Structures.md)
 ### Combining Data into Structures
 - **Structure:** C++ construct that allows multiple variables to be grouped together
 - General Format:
@@ -50,9 +50,9 @@ string name, address;
 ### Defining Variables
 - `struct` declaration does not allocate memory or create variables
 - To define variables, use structure tag as type name:
-![(Pearson Example) 11.2 - Figure 11-1.png](/Module%204/Pearson%20Notes/11.2%20Photos/11.2%20-%20Figure%2011-1.png)
+![(Pearson Example) 11.2 - Figure 11-1.png](../Pearson%20Notes/11.2%20Photos/11.2%20-%20Figure%2011-1.png)
 
-## [11.3 - Accessing Structure Members](/Module%204/Pearson%20Notes/11.3%20-%20Accessing%20Structure%20Members.md)
+## [11.3 - Accessing Structure Members](../Pearson%20Notes/11.3%20-%20Accessing%20Structure%20Members.md)
 ### Accessing Structure Members
 - Use the (`.`) operator to refer to members of `struct` variables:
 ```c++
@@ -63,9 +63,9 @@ sti1.gpa = 3.75;
 - Member variables can be used in any manner appropriate for their data type.
 
 ### Displaying a `struct` Variable
-- To display the contents of a `struct` variable, must display each field separately, using the `dot` operator: [HERE](/Module%204/Pearson%20Notes/11.3%20-%20Accessing%20Structure%20Members#Dot-Operator-Display)
+- To display the contents of a `struct` variable, must display each field separately, using the `dot` operator: [HERE](../Pearson%20Notes/11.3%20-%20Accessing%20Structure%20Members.md#Dot-Operator-Display)
 
-### [Comparing struct Variables](/Module%204/Pearson%20Notes/11.3%20-%20Accessing%20Structure%20Members#Comparing%20Structure%20Variables.md)
+### [Comparing struct Variables](../Pearson%20Notes/11.3%20-%20Accessing%20Structure%20Members.md#Comparing%20Structure%20Variables.md)
 - Cannot compare `struct` variables directly:
 ```c++
 if (bill == william) // won't work
@@ -75,7 +75,7 @@ if (bill == william) // won't work
 if (bill.studentID == william.studentID) ...
 ```
 
-### [Initializing a Structure](/Module%204/Pearson%20Notes/11.4%20-%20Initializing%20A%20Structure.md)
+### [Initializing a Structure](../Pearson%20Notes/11.4%20-%20Initializing%20a%20Structure.md)
 - `struct` variable can be initialized when defined:
 ```c++
 Student s = {11465, "Joan",2 , 3.75};
@@ -95,7 +95,7 @@ Student s = {1234, "John", , 2.83}; // illegal
 ```
 - Cannot initialize in the structure declaration, since this does not allocate memory.
 
-### [Arrays Of Structures](/Module%204/Pearson%20Notes/11.5%20-%20Arrays%20of%20Structures.md)
+### [Arrays Of Structures](../Pearson%20Notes/11.5%20-%20Arrays%20of%20Structures.md)
 - Structures can be defined in arrays
 - Can be used in place of parallel arrays
 ```c++
@@ -105,7 +105,7 @@ Student stuList[NUM_STUDENTS];
 - Individual structures accessible using subscript notation
 - Fields within structures accessible using `dot` notation: `cout << stuList[5].studentID;`
 
-# [11.6 - Nested Structures](/Module%204/Pearson%20Notes/11.6%20-%20Focus%20on%20Software%20Engineering%20-%20Nested%20Structures.md)
+# [11.6 - Nested Structures](../Pearson%20Notes/11.6%20-%20Focus%20on%20Software%20Engineering%20-%20Nested%20Structures.md)
 ## Nested Structures
 - A structure can contain another structure as a member:
 ```c++
@@ -122,7 +122,7 @@ struct Student
 	double gpa;
 }
 ```
-[Another Example](/Module%204/Pearson%20Notes/11.6%20-%20Focus%20on%20Software%20Engineering%20-%20Nested%20Structures#Nested%20Example)
+[Another Example](../Pearson%20Notes/11.6%20-%20Focus%20on%20Software%20Engineering%20-%20Nested%20Structures.md#Nested%20Example)
 
 ## Members of Nested Structures
 - Use the dot `(.)` operator multiple times to refer to fields of nested structures:
@@ -132,7 +132,7 @@ s.pData.name = "Joanne";
 s.pData.city = "Tulsa";
 ```
 
-## [Structures as Function Arguments](/Module%204/Pearson%20Notes/11.7%20-%20Structures%20as%20Function%20Arguments.md)
+## [Structures as Function Arguments](../Pearson%20Notes/11.7%20-%20Structures%20as%20Function%20Arguments.md)
 - May pass members of `struct` variables to functions:
 ```c++
 computeGPA(stu.gpa);
@@ -148,7 +148,7 @@ showData(stu);
 - Using a reference parameter will speed up program, but function may change data in structure
 - Using a `const` reference parameter allows read-only access to reference parameter, doesn't waste space, very speedy
 
-# [11.8 - Returning a Structure from a Function](/Module%204/Pearson%20Notes/11.8%20-%20Returning%20a%20Structure%20from%20a%20Function.md)
+# [11.8 - Returning a Structure from a Function](../Pearson%20Notes/11.8%20-%20Returning%20a%20Structure%20from%20a%20Function.md)
 ## Returning a Structure from a Function
 - Function can return a `struct`:
 ```c++
@@ -159,7 +159,7 @@ stu1 = getStudentData();    // call
 	- For internal use
 	- For use with `return` statement
 
-# [11.9 - Pointers to Structures](/Module%204/Pearson%20Notes/11.10%20-%20Pointers%20to%20Structures.md)
+# [11.9 - Pointers to Structures](../Pearson%20Notes/11.10%20-%20Pointers%20to%20Structures.md)
 ## Pointers to Structures
 - A structure variable has an address
 - Pointers to structures are variables that can hold the address of a structure:
@@ -183,4 +183,4 @@ cout << (*stuPtr).studentID;
 cout << stuPtr->studentID;
 ```
 - The arrow `(->)` is used for referencing the pointer going to the dereference and then getting the property we are looking for.
-#### [When to use the dot or arrow operators](/Module%204/Pearson%20Notes/11.11%20-%20Focus%20on%20Software%20Engineering.md)
+#### [When to use the dot or arrow operators](../Pearson%20Notes/11.11%20-%20Focus%20on%20Software%20Engineering.md)

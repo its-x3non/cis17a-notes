@@ -1,5 +1,7 @@
 #Module2 #VideoNotes 
-# 9.8 - Dynamic Memory Allocation
+# (5) Dynamic Memory Allocation
+A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on the title to go there.
+# [9.8 - Dynamic Memory Allocation](../Pearson%20Notes/9.8%20-%20Dynamic%20Memory%20Allocation.md)
 ## Dynamic Memory Allocation
 ### (1 of 2)
 - Can allocate storage for a variable while program is running
@@ -36,7 +38,7 @@ for(i = 0; i < SIZE; i++)
 `delete [] arrayptr;`
 - Only use `delete` with dynamic memory
 
-# 9.9 - Returning Pointers from Functions
+# [9.9 - Returning Pointers from Functions](../Pearson%20Notes/9.9%20-%20Returning%20Pointers%20from%20Functions.md)
 ## Returning Pointers from Functions
 - Pointer can be the return type of a function:
 `int* newNum();`
