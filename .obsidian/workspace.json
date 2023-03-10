@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 5/Pearson Notes/12.2 - File Output Formatting.md",
+                "file": "Module 5/Pearson Notes/12.1 - File Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 5/Pearson Notes/12.2 - File Output Formatting.md",
+                "file": "Module 5/Pearson Notes/12.1 - File Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 5/Pearson Notes/12.2 - File Output Formatting.md",
+                "file": "Module 5/Pearson Notes/12.1 - File Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 5/Pearson Notes/12.2 - File Output Formatting.md"
+                "file": "Module 5/Pearson Notes/12.1 - File Operations.md"
               }
             }
           }
@@ -149,8 +149,17 @@
   },
   "active": "d0e25cf3c89ae918",
   "lastOpenFiles": [
-    "Module 5/Pearson Notes/! Unit 12 Answers.md",
+    "Module 3/Pearson Notes/10.4 - Library Functions for Working with C-Strings.md",
+    "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
+    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
+    "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
+    "Module 3/Pearson Notes/10.3 - C-Strings.md",
+    "Module 3/Pearson Notes/10.2 - Character Case Conversion.md",
+    "Module 3/Video Notes/(2) 3-2 C-Strings.md",
     "Module 5/Pearson Notes/12.1 - File Operations.md",
+    "Module 5/Pearson Notes/12.2 - File Output Formatting.md",
+    "Module 5/Pearson Notes/! Unit 12 Answers.md",
     "! templates and stuff for me to remember.md",
     "README.md",
     "Module 5/Pearson Notes/12.5 - Member Functions for Reading and Writing Files.md",
@@ -163,18 +172,9 @@
     "Module 5/Pearson Notes/12.6 - Focus on Software Engineering - Working with Multiple Files.md",
     "Module 5/Pearson Notes/12.4 - More Detailed Error Testing.md",
     "Module 5/Pearson Notes/12.3 - Passing File Stream Objects to Functions.md",
-    "Module 5/Pearson Notes/12.2 - File Output Formatting.md",
     "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
-    "Module 3/Video Notes/(2) 3-2 C-Strings.md",
     "Module 3/Video Notes/(1) 3-1 Character Functions.md",
     "Module 3/Video Notes/(3) 3-3 The String Class.md",
-    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
-    "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
-    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
-    "Module 2/Video Notes/(4) Pointer Function Parameters.md",
-    "Module 1/Video Notes/(3) Sorting - Selection Sort.md",
-    "Module 1/Video Notes/(2) Sorting - Bubble Sort.md",
-    "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
     "Module 1",
     "Module 3",
     "Module 1/Pearson Notes/8.4 Photos",
