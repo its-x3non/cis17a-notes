@@ -28,18 +28,18 @@ char city [SIZE];
 	- Literal String
 ### (2 of 3)
 - Functions
-	- [`strlen(str)`](../Pearson%20Notes/10.4%20-%20Library%20Functions%20for%20Working%20with%20C-Strings.md#The-`strlen`-Function): returns length of C-string
-	- [ `strcat(str1, str2)`](../Pearson%20Notes/10.4%20-%20Library%20Functions%20for%20Working%20with%20C-Strings.md#The-`strcat`-Function): appends `str2` to the end of `str1`
+	- [`strlen(str)`](../Pearson%20Notes/10.4%20-%20Library%20Functions%20for%20Working%20with%20C-Strings.md#The-strlen-Function): returns length of C-string
+	- [ `strcat(str1, str2)`](../Pearson%20Notes/10.4%20-%20Library%20Functions%20for%20Working%20with%20C-Strings.md#The-strcat-Function): appends `str2` to the end of `str1`
 ### (3 of 3)
 - Functions:
-	- [`strcpy(str1, str2)`](../Pearson%20Notes/10.4%20-%20Library%20Functions%20for%20Working%20with%20C-Strings.md#The-`strcpy`-Function): copies `str2` to `str1`
+	- [`strcpy(str1, str2)`](../Pearson%20Notes/10.4%20-%20Library%20Functions%20for%20Working%20with%20C-Strings.md#The-strcpy-Function): copies `str2` to `str1`
 
 **NOTE:** `strcat` and `strcpy` perform no bounds checking to determine if there is enough space in receiving character array to hold the string it is being assigned.
-[The `strncat` and `strncpy` Functions](../Pearson%20Notes/10.4%20-%20Library%20Functions%20for%20Working%20with%20C-Strings.md#The-`strncat`-and`strncpy`-Functions)
+[The `strncat` and `strncpy` Functions](../Pearson%20Notes/10.4%20-%20Library%20Functions%20for%20Working%20with%20C-Strings.md#The-strncat-and-strncpy-Functions)
 
 ## C-String Inside a C-String
 - Function:
-	- [`strstr(str1,str2)`](../Pearson%20Notes/10.4%20-%20Library%20Functions%20for%20Working%20with%20C-Strings.md#The-`strstr`-Function): finds the first occurrence of `str2 in str1`. Returns a pointer to match, or `NULL` if no match.
+	- [`strstr(str1,str2)`](../Pearson%20Notes/10.4%20-%20Library%20Functions%20for%20Working%20with%20C-Strings.md#The-strstr-Function): finds the first occurrence of `str2 in str1`. Returns a pointer to match, or `NULL` if no match.
 
 # [10.5 - String/Numeric Conversion Functions](../Pearson%20Notes/10.5%20-%20StringNumeric%20Conversion%20Functions.md)
 ## [String/Numeric Conversion Function](../Pearson%20Notes/10.5%20-%20StringNumeric%20Conversion%20Functions.md#Table-10-4)
