@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 3/Video Notes/(3) 3-3 The String Class.md",
+                "file": "Module 5/Pearson Notes/12.3 - Passing File Stream Objects to Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ffcd9fe5446e8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 5/Pearson Notes/! Unit 12 Answers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 3/Video Notes/(3) 3-3 The String Class.md",
+                "file": "Module 5/Pearson Notes/! Unit 12 Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 3/Video Notes/(3) 3-3 The String Class.md",
+                "file": "Module 5/Pearson Notes/! Unit 12 Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 3/Video Notes/(3) 3-3 The String Class.md"
+                "file": "Module 5/Pearson Notes/! Unit 12 Answers.md"
               }
             }
+          },
+          {
+            "id": "6fdbb3d8c9c3e143",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,34 +169,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0e25cf3c89ae918",
+  "active": "6b79cc2064e279ff",
   "lastOpenFiles": [
-    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
-    "Module 3/Video Notes/(3) 3-3 The String Class.md",
+    "unimportant pngs",
+    "unimportant pngs/funny meme 1.jpg",
+    "Module 5/Pearson Notes/12.9 - Random-Access Files.md",
+    "Module 5/Pearson Notes/12.10 - Opening a File for Both Input and Output.md",
+    "Module 5/Pearson Notes/12.11 - Working with the File System.md",
+    "Module 5/Pearson Notes/12.8 - Creating Records with Structures.md",
+    "Module 5/Pearson Notes/12.4 - More Detailed Error Testing.md",
+    "Module 5/Pearson Notes/12.3 - Passing File Stream Objects to Functions.md",
+    "Module 5/Pearson Notes/12.5 - Member Functions for Reading and Writing Files.md",
+    "Module 5/Pearson Notes/12.7 - Binary Files.md",
     "Module 5/Pearson Notes/12.2 - File Output Formatting.md",
+    "Module 5/Pearson Notes/12.6 - Focus on Software Engineering - Working with Multiple Files.md",
+    "Module 5/Pearson Notes/12.1 - File Operations.md",
+    "! templates and stuff for me to remember.md",
+    "Module 5/Pearson Notes/! Unit 12 Answers.md",
     "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
+    "Module 5/Pearson Notes/12.11 Photos/12.11 - Figure 12-9 Windows Path.png",
+    "Module 5/Pearson Notes/12.11 Photos/12.11 - Figure 12-10 Unix-Linux Path.png",
+    "Module 5/Pearson Notes/12.11 Photos",
+    "Module 5/Pearson Notes/12.9 Photos",
+    "Module 5/Pearson Notes/12.9 Photos/12.9 - Figure 12-8.png",
+    "Module 4/Pearson Notes/11.5 - Arrays of Structures.md",
+    "Module 4/Video Notes/(1) 4-1 Structured Data.md",
+    "README.md",
+    "Module 3/Video Notes/(3) 3-3 The String Class.md",
+    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
     "Module 4/Video Notes/(3) 4-3 Enums.md",
     "Module 4/Video Notes/(2) 4-2 Unions.md",
-    "Module 4/Video Notes/(1) 4-1 Structured Data.md",
     "Module 4/Pearson Notes/11.6 - Focus on Software Engineering - Nested Structures.md",
     "Module 4/Pearson Notes/11.9 - Using Structured Bindings with Structures.md",
     "Module 4/Pearson Notes/11.10 - Pointers to Structures.md",
     "Module 4/Pearson Notes/11.7 - Structures as Function Arguments.md",
-    "Module 4/Pearson Notes/11.5 - Arrays of Structures.md",
-    "Module 4/Pearson Notes/11.8 - Returning a Structure from a Function.md",
-    "Module 5/Pearson Notes/12.1 - File Operations.md",
-    "Module 3/Pearson Notes/10.4 - Library Functions for Working with C-Strings.md",
-    "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
-    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
-    "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
-    "Module 3/Pearson Notes/10.3 - C-Strings.md",
-    "Module 3/Pearson Notes/10.2 - Character Case Conversion.md",
-    "Module 3/Video Notes/(2) 3-2 C-Strings.md",
-    "Module 5/Pearson Notes/! Unit 12 Answers.md",
-    "! templates and stuff for me to remember.md",
-    "README.md",
-    "Module 5/Pearson Notes/12.5 - Member Functions for Reading and Writing Files.md",
-    "Module 5/Pearson Notes/12.11 - Working with the File System.md",
     "Module 1",
     "Module 3",
     "Module 1/Pearson Notes/8.4 Photos",
@@ -184,16 +212,10 @@
     "Module 11 ❌/Video Notes",
     "Module 10 ❌/Video Notes",
     "Module 9 ❌/Video Notes",
-    "Module 8 ❌/Video Notes",
-    "Module 11 ❌/Pearson Notes",
     "Module 4/Pearson Notes/11.10 Photos/11.10 - Figure 11-4.png",
     "Module 4/Pearson Notes/11.7 Photos/11.7 - Figure 11-3.png",
     "Module 4/Video Notes/4-1 Photos/4-1 - Defining Variables Photo.png",
     "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-2.png",
-    "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-1.png",
-    "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (3).png",
-    "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (2).png",
-    "Module 3/Pearson Notes/10.6 Photos/10.6 - Figure 10-3.png",
-    "Module 3/Pearson Notes/10.7 Photos/10.7 - Table 10-9 (1).png"
+    "Module 4/Pearson Notes/11.2 Photos/11.2 - Figure 11-1.png"
   ]
 }
