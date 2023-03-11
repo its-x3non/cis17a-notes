@@ -4,18 +4,21 @@ i forgor
 ```
 Current Chapter
 =====================================================
-[Table of Contents](/README.md) | [Previous Section](.md) | [Next Section](.md) | [All Sections](/Module%20x/Pearson%20Notes/)
+[Table of Contents](/README.md) | [Previous Section] | [Next Section] | [All Sections](/Module%20x/Pearson%20Notes/)
 ***
+#Modulex #PearsonNotes
 
 Next Chapter
 ======================================================
-[Table of Contents](/README.md) | [Previous Section](.md) | [Next Section (Go to Next Chapter)](.md) | [All Sections](/Module%20x/Pearson%20Notes/)
+[Table of Contents](/README.md) | [Previous Section] | [Next Section (Go to Next Chapter)] | [All Sections](/Module%20x/Pearson%20Notes/)
 ***
+#Modulex #PearsonNotes
 
 Previous Chapter
 =======================================================
-[Table of Contents](/README.md) | [Previous Section (Go to Previous Chapter)](.md) | [Next Section](.md) | [All Sections](/Module%20x/Pearson%20Notes/)
+[Table of Contents](/README.md) | [Previous Section (Go to Previous Chapter)] | [Next Section] | [All Sections](/Module%20x/Pearson%20Notes/)
 ***
+#Modulex #PearsonNotes
 ```
 
 # For Output
