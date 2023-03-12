@@ -1,4 +1,24 @@
 ## Quiz 13-2
+### Question 1
+holy fucking shit i hate this
+```c++
+class Player
+{
+    private:
+        string name;
+        int score;
+    public:
+        void setName(string ab)
+            {name = ab;}
+        void setScore(int cd) 
+            {score = cd;}
+        string getName() const
+            {return name;}
+        int getScore() const
+            {return score;}
+};
+```
+#### [Next Section (13.3)](13.3%20-%20Defining%20an%20Instance%20of%20a%20Class.md)
 
 ## Quiz 13-3
 
