@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e75e74d75db0b15",
+            "id": "64d2c0d7a789ca54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72ba5d2eeaeda1f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
+                "file": "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
+                "file": "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
+                "file": "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 6/Pearson Notes/13.2 - Introduction to Classes.md"
+                "file": "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md"
               }
             }
           },
@@ -169,23 +156,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72ba5d2eeaeda1f1",
+  "active": "64d2c0d7a789ca54",
   "lastOpenFiles": [
-    "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
-    "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
+    "Module 6/Pearson Notes/13.4 - Why Have Private Members.md",
+    "Module 6/Pearson Notes/13.4 Photos",
+    "Module 6/Pearson Notes/13.4 Photos/13.4 - Figure 13-13.png",
     "Module 6/Pearson Notes/! Unit 13 Answers.md",
+    "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
+    "Module 6/Pearson Notes/13.3 - Defining an Instance of a Class.md",
+    "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-12.png",
+    "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-11.png",
+    "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-10.png",
+    "Module 6/Pearson Notes/Pasted image 20230311230758.png",
+    "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-9.png",
+    "! templates and stuff for me to remember.md",
+    "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
+    "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-8.png",
+    "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-7.png",
+    "Module 6/Pearson Notes/13.3 Photos",
+    "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-6.png",
+    "README.md",
     "Module 5/Pearson Notes/12.11 - Working with the File System.md",
     "Module 5/Pearson Notes/12.10 - Opening a File for Both Input and Output.md",
+    "Module 5/Pearson Notes/12.8 - Creating Records with Structures.md",
+    "Module 5/Pearson Notes/12.6 - Focus on Software Engineering - Working with Multiple Files.md",
+    "Module 5/Pearson Notes/12.5 - Member Functions for Reading and Writing Files.md",
+    "Module 5/Pearson Notes/12.1 - File Operations.md",
     "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
     "Module 4/Pearson Notes/11.11 - Focus on Software Engineering.md",
-    "Module 6/Pearson Notes/13.3 - Defining an Instance of a Class.md",
     "Module 6/Pearson Notes/13.1 Photos/13.1 - Figure 13-5.png",
-    "Module 6/Pearson Notes/Pasted image 20230311230758.png",
-    "Module 6/Pearson Notes/13.1 Photos/13.1 - Figure 13-4.png",
-    "Module 6/Pearson Notes/13.1 Photos/13.1 - Figure 13-2.png",
     "Module 6/Pearson Notes/13.1 Photos",
-    "Module 6/Pearson Notes/13.1 Photos/13.1 - Figure 13-1.png",
-    "Module 6/Pearson Notes/13.4 - Why have Private Members.md",
     "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
     "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
     "Module 6/Pearson Notes/13.7 - Constructors.md",
@@ -196,26 +196,12 @@
     "Module 6/Pearson Notes/13.12 - Arrays of Objects.md",
     "Module 6/Pearson Notes/13.13 - Focus on Problem Solving and Program Design.md",
     "Module 6/Pearson Notes/13.14 - Focus on Object-Oriented Programming.md",
-    "Module 6/Pearson Notes/13.15 - Focus on Object-Oriented Design.md",
-    "Module 6/Pearson Notes/13.16 - Focus on Object-Oriented Design.md",
-    "README.md",
-    "! templates and stuff for me to remember.md",
-    "Module 5/Pearson Notes/! Unit 12 Answers.md",
-    "Module 5/Pearson Notes/12.1 - File Operations.md",
-    "Module 5/Pearson Notes/12.2 - File Output Formatting.md",
     "unimportant pngs",
-    "unimportant pngs/funny meme 1.jpg",
-    "Module 5/Pearson Notes/12.11 Photos/12.11 - Figure 12-9 Windows Path.png",
-    "Module 5/Pearson Notes/12.11 Photos/12.11 - Figure 12-10 Unix-Linux Path.png",
     "Module 5/Pearson Notes/12.11 Photos",
     "Module 5/Pearson Notes/12.9 Photos",
-    "Module 5/Pearson Notes/12.9 Photos/12.9 - Figure 12-8.png",
     "Module 1",
     "Module 3",
     "Module 1/Pearson Notes/8.4 Photos",
-    "Module 1/Pearson Notes/8.4 Photos/8.4 - Table 8-5.png",
-    "Module 2",
-    "Module 3/Video Notes",
-    "Module 11 ❌/Video Notes"
+    "Module 2"
   ]
 }
