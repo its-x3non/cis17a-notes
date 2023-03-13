@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
+                "file": "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
+                "file": "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
+                "file": "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md"
+                "file": "Module 6/Pearson Notes/13.6 - Inline Member Functions.md"
               }
             }
           },
@@ -158,23 +158,28 @@
   },
   "active": "64d2c0d7a789ca54",
   "lastOpenFiles": [
+    "Module 6/Pearson Notes/! Unit 13 Answers.md",
+    "Module 6/Pearson Notes/13.4 - Why have Private Members.md",
+    "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
+    "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
+    "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
+    "Module 6/Pearson Notes/13.5 Photos/13.5 - Figure 13-15.png",
+    "Module 6/Pearson Notes/13.3 - Defining an Instance of a Class.md",
+    "Module 6/Pearson Notes/13.5 Photos",
+    "Module 6/Pearson Notes/13.5 Photos/13.5 - Figure 13-14.png",
     "Module 6/Pearson Notes/13.4 - Why Have Private Members.md",
     "Module 6/Pearson Notes/13.4 Photos",
     "Module 6/Pearson Notes/13.4 Photos/13.4 - Figure 13-13.png",
-    "Module 6/Pearson Notes/! Unit 13 Answers.md",
     "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
-    "Module 6/Pearson Notes/13.3 - Defining an Instance of a Class.md",
     "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-12.png",
     "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-11.png",
     "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-10.png",
     "Module 6/Pearson Notes/Pasted image 20230311230758.png",
     "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-9.png",
     "! templates and stuff for me to remember.md",
-    "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
     "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-8.png",
     "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-7.png",
     "Module 6/Pearson Notes/13.3 Photos",
-    "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-6.png",
     "README.md",
     "Module 5/Pearson Notes/12.11 - Working with the File System.md",
     "Module 5/Pearson Notes/12.10 - Opening a File for Both Input and Output.md",
@@ -184,10 +189,7 @@
     "Module 5/Pearson Notes/12.1 - File Operations.md",
     "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
     "Module 4/Pearson Notes/11.11 - Focus on Software Engineering.md",
-    "Module 6/Pearson Notes/13.1 Photos/13.1 - Figure 13-5.png",
     "Module 6/Pearson Notes/13.1 Photos",
-    "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
-    "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
     "Module 6/Pearson Notes/13.7 - Constructors.md",
     "Module 6/Pearson Notes/13.8 - Passing Arguments to Constructors.md",
     "Module 6/Pearson Notes/13.9 - Destructors.md",
@@ -195,13 +197,11 @@
     "Module 6/Pearson Notes/13.11 - Private Member Functions.md",
     "Module 6/Pearson Notes/13.12 - Arrays of Objects.md",
     "Module 6/Pearson Notes/13.13 - Focus on Problem Solving and Program Design.md",
-    "Module 6/Pearson Notes/13.14 - Focus on Object-Oriented Programming.md",
     "unimportant pngs",
     "Module 5/Pearson Notes/12.11 Photos",
     "Module 5/Pearson Notes/12.9 Photos",
     "Module 1",
     "Module 3",
-    "Module 1/Pearson Notes/8.4 Photos",
-    "Module 2"
+    "Module 1/Pearson Notes/8.4 Photos"
   ]
 }
