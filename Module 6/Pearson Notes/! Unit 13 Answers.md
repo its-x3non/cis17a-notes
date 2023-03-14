@@ -22,7 +22,7 @@ class Player
 
 ## Quiz 13-3
 ### Question 1
-why is this question the EASIEST out of all these fucking quizzes
+this question may be the EASIEST one out of all these fucking quizzes
 ```c++
 Calculator calc;
 ```
@@ -138,8 +138,79 @@ string ContestResult::getThirdPlace()
 
 #### [Next Section (13.6)](13.6%20-%20Inline%20Member%20Functions.md)
 ## Quiz 13-7
+### Question 1
+```c++
+class Accumulator
+{
+  private:
+    int sum = 0;
+  public:
+    int getSum()
+        { return sum; }
+    void add(int a)
+    {
+        sum += a;
+    }
+};
+```
+
+### Question 2
+I FORGOT THE PARANTHESIS ON `getGasLevel` AND WAS WONDERING WHY I WAS GETTING THIS QUESTION WRONG
+```c++
+class GasTank 
+{
+  private:
+    double amount;
+  public:
+    GasTank(){
+        amount = 0;
+    }
+    double getGasLevel()
+    {
+        return amount;
+    }
+    void addGas(double add)
+    { 
+        amount += add; 
+    }
+    void useGas(double sub)
+    {
+        amount -= sub;
+    }
+};
+```
+
+#### [Next Section (13.8)](13.8%20-%20Passing%20Arguments%20to%20Constructors.md)
 
 ## Quiz 13-8
+### Question 1
+```c++
+class Counter
+{
+private:
+	int counter;
+public:
+	Counter(int x)
+	{ counter = x; }
+	
+	void increment()
+	{
+	    counter++;
+	}
+	
+	void decrement()
+	{
+	    counter--;
+	}
+	
+	int getValue()
+	{
+	    return counter;
+	}
+};
+```
+
+#### [Next Section (13.9)](13.9%20-%20Destructors.md)
 
 ## Quiz 13-9
 

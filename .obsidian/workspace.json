@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64d2c0d7a789ca54",
+            "id": "324a1b3ab02e9914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
+                "file": "! templates and stuff for me to remember.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb3d43bb01ae397b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 1/Pearson Notes/8.5 Sorting and Searching Vectors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
+                "file": "Module 1/Pearson Notes/8.5 Sorting and Searching Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
+                "file": "Module 1/Pearson Notes/8.5 Sorting and Searching Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 6/Pearson Notes/13.6 - Inline Member Functions.md"
+                "file": "Module 1/Pearson Notes/8.5 Sorting and Searching Vectors.md"
               }
             }
           },
@@ -156,52 +169,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64d2c0d7a789ca54",
+  "active": "6b79cc2064e279ff",
   "lastOpenFiles": [
+    "Module 1/Code/Searches/Binary Search",
+    "Module 1/Code/Searches",
+    "Module 1/Code/Sorts",
+    "Module 1/Pearson Notes/8.4 Focus on Problem Solving and Program Design.md",
+    "Module 1/Pearson Notes/8.3 Focus on Software Engineering.md",
+    "Module 1/Pearson Notes/8.2 Focus on Problem Solving and Program Design.md",
+    "Module 1/Pearson Notes/8.5 Sorting and Searching Vectors.md",
+    "Module 1/Pearson Notes/8.1 Focus of Software Engineering.md",
     "Module 6/Pearson Notes/! Unit 13 Answers.md",
-    "Module 6/Pearson Notes/13.4 - Why have Private Members.md",
+    "Module 1/Code",
+    "Module 6/Pearson Notes/13.8 - Passing Arguments to Constructors.md",
+    "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
+    "! templates and stuff for me to remember.md",
+    "Module 6/Pearson Notes/13.8 Photos/13.8 - Figure 13-17.png",
+    "Module 6/Pearson Notes/13.8 Photos",
+    "Module 6/Pearson Notes/13.8 Photos/13.8 - Figure 13-16.png",
+    "Module 6/Pearson Notes/13.7 - Constructors.md",
+    "Module 6/Pearson Notes/13.9 - Destructors.md",
     "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
     "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
-    "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
+    "Module 5/Video Notes/(4) 5-4 Records.md",
+    "Module 5/Video Notes/(5) 5-5 Random Access.md",
+    "Module 5/Pearson Notes/12.9 - Random-Access Files.md",
+    "Module 5/Pearson Notes/12.7 - Binary Files.md",
+    "Module 5/Video Notes/(3) 5-3 Binary Files.md",
+    "Module 5/Video Notes/(2) 5-2 Files.md",
+    "Module 5/Pearson Notes/12.8 - Creating Records with Structures.md",
+    "Module 5/Pearson Notes/12.6 - Focus on Software Engineering - Working with Multiple Files.md",
+    "Module 5/Pearson Notes/12.5 - Member Functions for Reading and Writing Files.md",
+    "Module 5/Pearson Notes/12.11 - Working with the File System.md",
+    "Module 1/Video Notes/(4) Sorting - Vectors.md",
+    "Module 1/Video Notes/(3) Sorting - Selection Sort.md",
     "Module 6/Pearson Notes/13.5 Photos/13.5 - Figure 13-15.png",
-    "Module 6/Pearson Notes/13.3 - Defining an Instance of a Class.md",
-    "Module 6/Pearson Notes/13.5 Photos",
     "Module 6/Pearson Notes/13.5 Photos/13.5 - Figure 13-14.png",
-    "Module 6/Pearson Notes/13.4 - Why Have Private Members.md",
+    "Module 6/Pearson Notes/13.5 Photos",
     "Module 6/Pearson Notes/13.4 Photos",
     "Module 6/Pearson Notes/13.4 Photos/13.4 - Figure 13-13.png",
-    "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
     "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-12.png",
     "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-11.png",
     "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-10.png",
     "Module 6/Pearson Notes/Pasted image 20230311230758.png",
     "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-9.png",
-    "! templates and stuff for me to remember.md",
-    "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-8.png",
-    "Module 6/Pearson Notes/13.3 Photos/13.3 - Figure 13-7.png",
     "Module 6/Pearson Notes/13.3 Photos",
-    "README.md",
-    "Module 5/Pearson Notes/12.11 - Working with the File System.md",
-    "Module 5/Pearson Notes/12.10 - Opening a File for Both Input and Output.md",
-    "Module 5/Pearson Notes/12.8 - Creating Records with Structures.md",
-    "Module 5/Pearson Notes/12.6 - Focus on Software Engineering - Working with Multiple Files.md",
-    "Module 5/Pearson Notes/12.5 - Member Functions for Reading and Writing Files.md",
-    "Module 5/Pearson Notes/12.1 - File Operations.md",
-    "Module 4/Pearson Notes/11.12 - Enumerated Data Types.md",
-    "Module 4/Pearson Notes/11.11 - Focus on Software Engineering.md",
     "Module 6/Pearson Notes/13.1 Photos",
-    "Module 6/Pearson Notes/13.7 - Constructors.md",
-    "Module 6/Pearson Notes/13.8 - Passing Arguments to Constructors.md",
-    "Module 6/Pearson Notes/13.9 - Destructors.md",
-    "Module 6/Pearson Notes/13.10 - Overloading Constructors.md",
-    "Module 6/Pearson Notes/13.11 - Private Member Functions.md",
-    "Module 6/Pearson Notes/13.12 - Arrays of Objects.md",
-    "Module 6/Pearson Notes/13.13 - Focus on Problem Solving and Program Design.md",
     "unimportant pngs",
-    "Module 5/Pearson Notes/12.11 Photos",
-    "Module 5/Pearson Notes/12.9 Photos",
-    "Module 1",
-    "Module 3",
-    "Module 1/Pearson Notes/8.4 Photos"
+    "Module 5/Pearson Notes/12.11 Photos"
   ]
 }

@@ -37,3 +37,6 @@ Previous Chapter
 # Markdown Editing
 `<br />` for breaking lines
 `***` for horizontal line
+
+# For Video Notes
+`A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on the title to go there.`
