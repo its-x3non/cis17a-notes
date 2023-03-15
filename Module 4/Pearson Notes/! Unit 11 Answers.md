@@ -201,7 +201,7 @@ int main()
 }
 ```
 
-### The answer is down here
+### The answer is down here (This answer uses no structs)
 ```c++
 #include <iostream>
 #include <fstream>
