@@ -1,6 +1,7 @@
 #Module3 #VideoNotes 
 # (3) 3-3 The String Class
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
+
 # [10.7 - More about the C++ 'string' Class](../Pearson%20Notes/10.7%20-%20More%20about%20the%20C++%20'string'%20Class.md)
 ## [The C++ `string` Class](../Pearson%20Notes/10.7%20-%20More%20about%20the%20C++%20'string'%20Class.md#Using-the-string-Class)
 - Special data type supports working with strings

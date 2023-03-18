@@ -21,6 +21,12 @@ Previous Chapter
 #Modulex #PearsonNotes
 ```
 
+# Table of contents if shit is too long:
+```
+### Since this is a long section here are a table of contents for each section (In Order):
+#### Table of Contents
+```
+
 # For Output
 ```c++
 // =============== Output ===============

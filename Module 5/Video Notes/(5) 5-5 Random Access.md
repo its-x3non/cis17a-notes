@@ -1,6 +1,7 @@
 #Module5 #VideoNotes 
 # 5-5 Random Access
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
+
 ## [12.9 - Random-Access Files](../Pearson%20Notes/12.9%20-%20Random-Access%20Files.md)
 ### [Random-Access Files](../Pearson%20Notes/12.9%20-%20Random-Access%20Files.md#Figure-12-8)
 - **Sequential Access**: start at the beginning of file and go through data in file, in order, to end

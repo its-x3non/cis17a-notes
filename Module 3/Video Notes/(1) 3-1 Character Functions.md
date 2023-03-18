@@ -1,6 +1,7 @@
 #Module3 #VideoNotes 
 # (1) 3-1 Character Functions
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
+
 # [10.1 - Character Testing](../Pearson%20Notes/10.1%20-%20Character%20Testing.md)
 ## Character Testing
 - ASCII: https://www.techonthenet.com/ascii/chart.php

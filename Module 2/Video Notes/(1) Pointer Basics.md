@@ -1,6 +1,7 @@
 #Module2 #VideoNotes
 # (1) Pointer Basics
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
+
 # [9.1 - Getting the Address of a Variable](../Pearson%20Notes/9.1%20-%20Getting%20the%20Address%20of%20a%20Variable.md)
 ## Getting the Address of a Variable
 - Each variable in program is sorted at a unique address

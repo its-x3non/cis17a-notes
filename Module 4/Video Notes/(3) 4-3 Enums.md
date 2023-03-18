@@ -1,6 +1,7 @@
 #Module4 #VideoNotes 
 # [11.12 - Enumerated Data Types](../Pearson%20Notes/11.12%20-%20Enumerated%20Data%20Types.md)
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
+
 ## Enumerated Data Types
 ### (1 of 9)
 - An enumerated data type is a programmer-defined data type. It consists of values known as **enumerators**, which represent integer constants.

@@ -1,6 +1,7 @@
 #Module1 #VideoNotes
 # Searching Arrays
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
+
 # [8.1 - Introduction to Search Algorithms](../Pearson%20Notes/8.1%20Focus%20of%20Software%20Engineering.md)
 ## Introduction to Search Algorithms
 - **Search:** Locate an item in a list of information

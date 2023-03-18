@@ -1,6 +1,7 @@
 #Module1 #VideoNotes 
 # Sorting - Bubble Sort
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
+
 # [8.3 - Bubble Sort](../Pearson%20Notes/8.3%20Focus%20on%20Software%20Engineering.md#Bubble-Sort)
 ## Introduction to Sorting Algorithms
 - **Sort:** Arrange values into an order
