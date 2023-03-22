@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8889b683db70b18e",
+            "id": "4c449a927105b9d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 6/Video Notes/(5) 6-5 Construction Details.md",
+                "file": "Module 7/Pearson Notes/14.10 - Rvalue References and Move Semantics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fcfff2e1fe7e40e8",
+            "id": "8881f6ea0c1d5ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 6/Pearson Notes/! Unit 13 Answers.md",
+                "file": "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 6/Pearson Notes/! Unit 13 Answers.md",
+                "file": "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 6/Pearson Notes/! Unit 13 Answers.md",
+                "file": "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 6/Pearson Notes/! Unit 13 Answers.md"
+                "file": "Module 7/Pearson Notes/14.1 - Instance and Static Members.md"
               }
             }
           },
@@ -169,34 +169,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcfff2e1fe7e40e8",
+  "active": "8881f6ea0c1d5ffb",
   "lastOpenFiles": [
-    "Module 6/Pearson Notes/13.12 - Arrays of Objects.md",
-    "Module 6/Video Notes/(2) 6-2 Separating Specification from Implementation.md",
-    "Module 6/Video Notes/(3) 6-3 Constructors.md",
+    "Module 7/Pearson Notes/14.5 - Operator Overloading.md",
+    "Module 7/Pearson Notes/14.6 - Object Conversion.md",
+    "Module 7/Pearson Notes/14.7 - Aggregation.md",
+    "Module 7/Pearson Notes/14.8 - Focus on Object-Oriented Design.md",
+    "Module 7/Pearson Notes/14.9 - Focus on Object-Oriented Programming.md",
+    "Module 7/Pearson Notes/14.10 - Rvalue References and Move Semantics.md",
+    "Module 7/Pearson Notes/14.2 - Friends of Classes.md",
+    "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
+    "Module 7/Pearson Notes/14.3 - Memberwise Assignment.md",
+    "Module 7/Pearson Notes/14.4 - Copy Constructors.md",
+    "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
+    "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
+    "! templates and stuff for me to remember.md",
+    "Module 7/Pearson Notes/! Unit 14 Answers.md",
+    "Module 5/Pearson Notes/! Unit 12 Answers.md",
+    "Module 6/Pearson Notes/! Unit 13 Answers.md",
+    "Module 6/Pearson Notes/13.16 - Focus on Object-Oriented Design.md",
+    "Module 6/Pearson Notes/13.11 - Private Member Functions.md",
+    "Module 6/Video Notes/(1) 6-1 Intro to Classes.md",
     "Module 6/Video Notes/(4) 6-4 Destructors.md",
+    "Module 6/Video Notes/(3) 6-3 Constructors.md",
     "Module 6/Video Notes/(5) 6-5 Construction Details.md",
     "Module 6/Video Notes/(6) 6-6 Arrays of Objects.md",
-    "Module 6/Video Notes/(1) 6-1 Intro to Classes.md",
-    "Module 6/Pearson Notes/13.11 - Private Member Functions.md",
-    "Module 6/Pearson Notes/13.10 - Overloading Constructors.md",
-    "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
-    "Module 6/Pearson Notes/13.9 - Destructors.md",
-    "Module 6/Pearson Notes/13.7 - Constructors.md",
-    "Module 6/Pearson Notes/13.6 - Inline Member Functions.md",
     "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
-    "Module 6/Pearson Notes/13.4 - Why Have Private Members.md",
-    "Module 6/Pearson Notes/13.3 - Defining an Instance of a Class.md",
-    "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
-    "Module 6/Pearson Notes/! Unit 13 Answers.md",
-    "Module 1/Video Notes/(4) Sorting - Vectors.md",
-    "Module 1/Video Notes/(3) Sorting - Selection Sort.md",
-    "Module 1/Video Notes/(2) Sorting - Bubble Sort.md",
-    "Module 1/Video Notes/(1) Searching Arrays.md",
-    "Module 2/Video Notes/(6) Smart Pointers.md",
-    "Module 2/Video Notes/(5) Dynamic Memory Allocation.md",
-    "Module 2/Video Notes/(4) Pointer Function Parameters.md",
-    "Module 2/Video Notes/(3) Comparing Pointers.md",
+    "Module 6/Video Notes/(2) 6-2 Separating Specification from Implementation.md",
+    "Module 6/Pearson Notes/13.7 - Constructors.md",
     "Module 6/Pearson Notes/13.16 Photos/13.16 - Figure 13-25.png",
     "Module 6/Pearson Notes/13.16 Photos/13.16 - Figure 13-24.png",
     "Module 6/Pearson Notes/13.16 Photos",
