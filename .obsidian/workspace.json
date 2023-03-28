@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 7/Pearson Notes/14.10 - Rvalue References and Move Semantics.md",
+                "file": "! templates and stuff for me to remember.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
+                "file": "Module 7/Pearson Notes/14.5 - Operator Overloading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7bd6925bbd18632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 1/Pearson Notes/8.1 Focus of Software Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d17b19c018e42842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
+                "file": "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
+                "file": "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 7/Pearson Notes/14.1 - Instance and Static Members.md"
+                "file": "MIDTERM (Modules 1-5)/Midterm Exam Answers.md"
               }
             }
           },
@@ -169,53 +193,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8881f6ea0c1d5ffb",
+  "active": "d17b19c018e42842",
   "lastOpenFiles": [
-    "Module 7/Pearson Notes/14.5 - Operator Overloading.md",
-    "Module 7/Pearson Notes/14.6 - Object Conversion.md",
-    "Module 7/Pearson Notes/14.7 - Aggregation.md",
-    "Module 7/Pearson Notes/14.8 - Focus on Object-Oriented Design.md",
-    "Module 7/Pearson Notes/14.9 - Focus on Object-Oriented Programming.md",
-    "Module 7/Pearson Notes/14.10 - Rvalue References and Move Semantics.md",
-    "Module 7/Pearson Notes/14.2 - Friends of Classes.md",
-    "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
-    "Module 7/Pearson Notes/14.3 - Memberwise Assignment.md",
-    "Module 7/Pearson Notes/14.4 - Copy Constructors.md",
-    "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
-    "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
+    "MIDTERM.md",
+    "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
+    "MIDTERM (Modules 1-5)",
+    "Module 1/Pearson Notes/8.1 Focus of Software Engineering.md",
+    "Module 1/Pearson Notes/! Unit 8 Answers.md",
+    "Module 1/Video Notes/(1) Searching Arrays.md",
+    "Module 1/Pearson Notes/8.2 Focus on Problem Solving and Program Design.md",
     "! templates and stuff for me to remember.md",
-    "Module 7/Pearson Notes/! Unit 14 Answers.md",
-    "Module 5/Pearson Notes/! Unit 12 Answers.md",
-    "Module 6/Pearson Notes/! Unit 13 Answers.md",
-    "Module 6/Pearson Notes/13.16 - Focus on Object-Oriented Design.md",
-    "Module 6/Pearson Notes/13.11 - Private Member Functions.md",
-    "Module 6/Video Notes/(1) 6-1 Intro to Classes.md",
-    "Module 6/Video Notes/(4) 6-4 Destructors.md",
-    "Module 6/Video Notes/(3) 6-3 Constructors.md",
-    "Module 6/Video Notes/(5) 6-5 Construction Details.md",
-    "Module 6/Video Notes/(6) 6-6 Arrays of Objects.md",
-    "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
-    "Module 6/Video Notes/(2) 6-2 Separating Specification from Implementation.md",
-    "Module 6/Pearson Notes/13.7 - Constructors.md",
+    "Module 7/Pearson Notes/14.5 - Operator Overloading.md",
+    "Module 7/Pearson Notes/14.5 Photos/14.5 - Figure 14-6.png",
+    "Module 1/Pearson Notes/8.5 Sorting and Searching Vectors.md",
+    "Module 1/Pearson Notes/8.4 Focus on Problem Solving and Program Design.md",
+    "Module 1/Pearson Notes/8.3 Focus on Software Engineering.md",
+    "Module 2/Pearson Notes/9.11 - Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 2/Pearson Notes/9.10 - Using Smart Pointers to Avoid Memory Leaks.md",
+    "Module 2/Pearson Notes/9.9 - Returning Pointers from Functions.md",
+    "Module 2/Pearson Notes/9.8 - Dynamic Memory Allocation.md",
+    "Module 2/Pearson Notes/9.7 - Pointers as Function Parameters.md",
+    "Module 2/Pearson Notes/9.6 - Comparing Pointers.md",
+    "Module 2/Pearson Notes/9.5 - Initializing Pointers.md",
+    "Module 2/Pearson Notes/9.4 - Pointer Arithmetic.md",
+    "Module 2/Pearson Notes/9.3 - The Relationship Between Arrays and Pointers.md",
+    "Module 2/Pearson Notes/9.2 - Pointer Variables.md",
+    "Module 2/Pearson Notes/9.1 - Getting the Address of a Variable.md",
+    "Module 3/Pearson Notes/10.8 - Focus on Problem Solving and Program Design - A Case Study.md",
+    "Module 3/Pearson Notes/10.7 - More about the C++ 'string' Class.md",
+    "Module 3/Pearson Notes/10.6 - Focus on Software Engineering - Writing Your Own C-String-Handling Functions.md",
+    "Module 3/Pearson Notes/10.5 - StringNumeric Conversion Functions.md",
+    "Module 7/Pearson Notes/14.5 Photos",
+    "Module 7/Pearson Notes/14.5 Photos/14.5 - Figure 14-5.png",
+    "Module 7/Pearson Notes/14.4 Photos/14.4 - Figure 14-4.png",
+    "Module 7/Pearson Notes/14.4 Photos/14.4 - Figure 14-3.png",
+    "Module 7/Pearson Notes/14.4 Photos",
+    "Module 7/Pearson Notes/14.1 Photos/14.1 - Figure 14-2.png",
+    "Module 7/Pearson Notes/14.1 Photos",
     "Module 6/Pearson Notes/13.16 Photos/13.16 - Figure 13-25.png",
     "Module 6/Pearson Notes/13.16 Photos/13.16 - Figure 13-24.png",
     "Module 6/Pearson Notes/13.16 Photos",
     "Module 6/Pearson Notes/13.16 Photos/13.16 - Figure 13-23.png",
     "Module 6/Pearson Notes/13.15 Photos/13.15 - Figure 13-22.png",
     "Module 6/Pearson Notes/13.15 Photos/13.15 - Figure 13-21.png",
-    "Module 6/Pearson Notes/13.15 Photos/13.15 - Figure 13-20.png",
-    "Module 6/Pearson Notes/13.15 Photos/13.15 - Figure 13-19.png",
-    "Module 6/Pearson Notes/13.15 Photos/13.15 - Figure 13-18.png",
     "Module 6/Pearson Notes/13.15 Photos",
     "Module 1/Code/Searches/Binary Search",
     "Module 1/Code/Searches",
     "Module 1/Code/Sorts",
-    "Module 1/Code",
-    "Module 6/Pearson Notes/13.8 Photos/13.8 - Figure 13-17.png",
-    "Module 6/Pearson Notes/13.8 Photos",
-    "Module 6/Pearson Notes/13.8 Photos/13.8 - Figure 13-16.png",
-    "Module 6/Pearson Notes/13.5 Photos",
-    "Module 6/Pearson Notes/13.4 Photos",
-    "Module 6/Pearson Notes/13.3 Photos"
+    "Module 1/Code"
   ]
 }
