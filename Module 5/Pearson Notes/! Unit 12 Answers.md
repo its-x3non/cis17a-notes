@@ -99,4 +99,42 @@ void fileError(ifstream &file)
 }
 ```
 
+## Simplier Way (Thanks to Josephc)
+This just replaces the main function.
+This one just uses 1 while loop.
+```c++
+int main()
+{
+	// declare variables
+	int x, i = 0;
+	char ch;
+
+	// files
+	ifstream posFile("pos.txt");
+	ifstream charsFile("chars.txt");
+
+	// if unable to find file
+	fileError(posFile);
+	fileError(charsFile);
+
+	charsFile.seekg(0L, ios::end);
+	i = charsFile.tellg();
+	while (posFile >> x)
+	{
+		if (!(x >= i || x < 0))
+		{
+			charsFile.seekg(x, ios::beg);
+			charsFile.get(ch);
+			cout << ch << endl;
+		}
+	}
+
+	// ending everything else
+	posFile.close();
+	charsFile.close();
+	system("pause");
+	return 0;
+}
+```
+
 #### [Next Section (Go to Next Chapter)](../../Module%206/Pearson%20Notes/13.1%20-%20Procedural%20and%20Object-Oriented%20Programming.md)
