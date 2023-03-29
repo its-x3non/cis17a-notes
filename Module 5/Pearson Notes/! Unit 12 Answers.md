@@ -34,17 +34,6 @@ FINALLY I FINISHED THIS PROGRAMMING PROJECT <br />
 ![I used to pray for times like these](../../unimportant%20pngs/funny%20meme%201.jpg)
 ## The answer is down here
 ```c++
-// Write a program that reads the integers from the pos.txt file 
-// and uses each integer as a byte number to retrieve a character from the chars.txt file
-// (offset from the beginning of the file), and then displays that character on the screen.
-// Your program would read the characters from chars.txt at the following byte numbers,
-// offset from the beginning of the file : 8, 12, 0, 5, 2, and 16. 
-// It would display each of those characters
-// Data Validation:
-// If the pos.txt file contains an invalid byte number
-// (a byte number that is negative, or beyond the end of the file),
-// simply skip that numberand continue with the next byte number.
-
 #include <iostream>
 #include <fstream>
 
@@ -111,7 +100,8 @@ void fileError(ifstream &file)
 ```
 
 ## Simplier Way (Thanks to Josephc)
-This just replaces the main function
+This just replaces the main function.
+This one just uses 1 while loop.
 ```c++
 int main()
 {
