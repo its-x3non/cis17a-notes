@@ -33,3 +33,7 @@ I am not responsible for you cheating on your programming projects. I am here to
 - [✅ Pearson Notes](/Module%206/Pearson%20Notes)
   - [✅ Answers](/Module%206/Pearson%20Notes/!%20Unit%2013%20Answers.md)
 - [✅ Video Notes](/Module%206/Video%20Notes)
+## [✅ Module 7 - Chapter 14: More About Classes](/Module%206)
+- [✅ Pearson Notes](/Module%207/Pearson%20Notes)
+  - [✅ Answers](/Module%207/Pearson%20Notes/!%20Unit%2014%20Answers.md)
+- [✅ Video Notes](/Module%207/Video%20Notes)
