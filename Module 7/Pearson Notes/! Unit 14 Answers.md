@@ -76,5 +76,27 @@ GraphicProgram(const GraphicProgram &a)
 ####  [Next Section (14.5)](14.5%20-%20Operator%20Overloading.md)
 
 ## Quiz 14.5
+### Question 1
+```c++
+friend istream &operator >> (istream & ins, Window & obj)
+{
+    int w, h;
+    
+    ins >> w;
+    ins >> h;
+    obj.height = h;
+    obj.width = w;
+    
+    return ins;
+}
+```
 
+### Question 2
+```c++
+friend ostream &operator << (ostream & out, const Window & obj)
+{
+ out << "a (" << obj.width << " x " << obj.height << ") window";
+ return out;
+}
+```
 # Programming Project

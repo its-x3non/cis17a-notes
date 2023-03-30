@@ -1,7 +1,7 @@
 #Module6 #VideoNotes 
 # 6-1 Intro to Classes
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 # [13.1 - Procedural and Object-Oriented Programming](../Pearson%20Notes/13.1%20-%20Procedural%20and%20Object-Oriented%20Programming.md)
 ## Procedural and Object-Oriented Programming
 - **Procedural Programming:** Focuses on the process/actions that occur in a program

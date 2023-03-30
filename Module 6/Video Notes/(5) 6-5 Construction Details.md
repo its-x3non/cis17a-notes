@@ -1,7 +1,7 @@
 #Module6 #VideoNotes 
 # 6-5 Construction Details
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 # [13.10 - Overloading Constructors](../Pearson%20Notes/13.10%20-%20Overloading%20Constructors.md)
 ## Overloading Constructors
 - A class can have more than one constructor

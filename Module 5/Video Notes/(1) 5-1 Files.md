@@ -1,6 +1,7 @@
 #Module5 #VideoNotes
 # 5-1 Files
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
+***
 ## [12.1 - File Operations](../Pearson%20Notes/12.1%20-%20File%20Operations.md)
 ### File Operations
 - File: A Set of data stored on a computer, often on a disk drive

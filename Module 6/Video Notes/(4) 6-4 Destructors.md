@@ -1,7 +1,7 @@
 #Module6 #VideoNotes 
 # 6-4 Destructors
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 # [13.9 - Destructors](../Pearson%20Notes/13.9%20-%20Destructors.md)
 ## Destructors
 - Member function automatically called when an object is destroyed

@@ -1,7 +1,7 @@
 #Module6 #VideoNotes 
 # 6-3 Constructors
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 # [13.7 - Constructors](../Pearson%20Notes/13.7%20-%20Constructors.md)
 ## Constructors
 - Member function that is automatically called when an object is created

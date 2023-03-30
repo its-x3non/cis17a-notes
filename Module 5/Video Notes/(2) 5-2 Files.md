@@ -1,7 +1,7 @@
 #Module5 #VideoNotes
 # 5-2 Files
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 ## [12.5 - Member Functions for Reading and Writing Files](../Pearson%20Notes/12.5%20-%20Member%20Functions%20for%20Reading%20and%20Writing%20Files.md)
 ### Member Functions for Reading and Writing Files
 - Functions that may be used for input with whitespace, to perform single character I/O, or to return to the beginning of an input file.

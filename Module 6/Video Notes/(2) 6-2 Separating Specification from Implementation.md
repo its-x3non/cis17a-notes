@@ -1,7 +1,7 @@
 #Module6 #VideoNotes 
 # 6-2 Separating Specification from Implementation
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 # [13.5 - Separating Class Specification from Implementation](../Pearson%20Notes/13.5%20-%20Focus%20on%20Software%20Engineering.md)
 ## Separating Specification from Implementation
 - Place class declaration in a header file that serves as the **class specification file.** Name the file **Classname.h**

@@ -1,7 +1,7 @@
 #Module5 #VideoNotes 
 # 5-3 Binary files
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 ## [12.7 - Binary Files](../Pearson%20Notes/12.7%20-%20Binary%20Files.md)
 ### Binary Files
 #### (1 of 3)

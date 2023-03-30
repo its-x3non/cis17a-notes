@@ -1,7 +1,7 @@
 #Module4 #VideoNotes
 # 4-1 Structured Data
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 ## [11.1 - Abstract Data Types](../Pearson%20Notes/11.1%20-%20Abstract%20Data%20Types.md)
 ### Abstract Data Types
 - A data type that specifies

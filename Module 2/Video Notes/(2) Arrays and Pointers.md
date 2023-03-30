@@ -1,7 +1,7 @@
 #Module2 #VideoNotes
 # (2) Arrays and Pointers
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 # [9.3 - The Relationship Between Arrays and Pointers](../Pearson%20Notes/9.3%20-%20The%20Relationship%20Between%20Arrays%20and%20Pointers.md)
 ## The Relationship between Arrays and Pointers 
 ### (1 of 2)

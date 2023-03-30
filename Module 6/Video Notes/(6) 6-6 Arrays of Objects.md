@@ -1,7 +1,7 @@
 #Module6 #VideoNotes 
 # 6-6 Arrays of Objects
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 # [13.12 - Arrays of Objects](../Pearson%20Notes/13.12%20-%20Arrays%20of%20Objects.md)
 ## Arrays of Objects
 ### (1 of 4)

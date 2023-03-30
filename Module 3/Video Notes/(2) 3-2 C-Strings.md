@@ -1,7 +1,7 @@
 #Module3 #VideoNotes 
 # (2) 3-2 C-Strings
 A lot of what he discussed here can be found more in detail in certain sections of the [Pearson Notes](../Pearson%20Notes), which you can click on certain text to go there.
-
+***
 # [10.3 - C-Strings](../Pearson%20Notes/10.3%20-%20C-Strings.md)
 ## C-Strings
 ### (1 of 2)
