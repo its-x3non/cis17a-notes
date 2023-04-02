@@ -1,4 +1,3 @@
-
 Write a program that uses a structure to store the following inventory data in a file:
 -   Item Description
 -   Quantity on Hand

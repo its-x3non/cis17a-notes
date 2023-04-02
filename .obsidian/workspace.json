@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 7/Pearson Notes/14.6 - Object Conversion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "470450d3c039e536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
+                "file": "Module 7/Pearson Notes/! Unit 14 Answers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
+                "file": "Module 7/Pearson Notes/! Unit 14 Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
+                "file": "Module 7/Pearson Notes/! Unit 14 Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MIDTERM (Modules 1-5)/Midterm Exam Q2.md"
+                "file": "Module 7/Pearson Notes/! Unit 14 Answers.md"
               }
             }
           },
@@ -180,34 +168,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "470450d3c039e536",
+  "active": "bfed4b559c488c67",
   "lastOpenFiles": [
-    "Module 7/Video Notes/(6) 7-6 Aggregation.md",
-    "Module 7/Pearson Notes/14.7 Photos/14.7 - Figure 14-7.png",
-    "Module 7/Video Notes/(5) 7-5 Object Conversion.md",
-    "Module 7/Pearson Notes/14.6 - Object Conversion.md",
-    "Module 7/Pearson Notes/14.7 - Aggregation.md",
+    "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
+    "MIDTERM (Modules 1-5)/Midterm Exam Q1.md",
+    "Module 7/Video Notes/(2) 7-2 Friend Classes and Functions.md",
     "Module 7/Video Notes/(4) 7-4 Operator Overloading.md",
+    "Module 7/Video Notes/(5) 7-5 Object Conversion.md",
+    "Module 7/Video Notes/(6) 7-6 Aggregation.md",
+    "Module 7/Video Notes/(3) 7-3 Class Assignment.md",
+    "Module 7/Video Notes/(1) 7-1 Static Members.md",
+    "Module 7/Pearson Notes/14.9 - Focus on Object-Oriented Programming.md",
+    "! templates and stuff for me to remember.md",
+    "Module 6/Pearson Notes/13.13 - Focus on Problem Solving and Program Design.md",
+    "Module 6/Pearson Notes/13.14 - Focus on Object-Oriented Programming.md",
+    "Module 6/Pearson Notes/13.15 - Focus on Object-Oriented Design.md",
+    "Module 6/Pearson Notes/13.16 - Focus on Object-Oriented Design.md",
+    "Module 7/Pearson Notes/14.8 - Focus on Object-Oriented Design.md",
+    "Module 7/Pearson Notes/14..md",
+    "Module 7/Pearson Notes/14.8 Photos",
+    "Module 7/Pearson Notes/14.8 Photos/14.8 - Figure 14-8.png",
+    "Module 7/Pearson Notes/14.7 - Aggregation.md",
+    "Module 7/Pearson Notes/14.6 - Object Conversion.md",
+    "Module 7/Pearson Notes/14.7 Photos/14.7 - Figure 14-7.png",
     "Module 7/Pearson Notes/14.5 - Operator Overloading.md",
     "Module 7/Pearson Notes/14.4 - Copy Constructors.md",
-    "Module 7/Video Notes/(2) 7-2 Friend Classes and Functions.md",
-    "Module 7/Video Notes/(3) 7-3 Class Assignment.md",
     "Module 7/Pearson Notes/14.3 - Memberwise Assignment.md",
-    "Module 7/Video Notes/(1) 7-1 Static Members.md",
     "Module 7/Pearson Notes/14.2 - Friends of Classes.md",
     "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
     "Module 7/Pearson Notes/! Unit 14 Answers.md",
-    "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
     "Module 8/Pearson Notes/15.1 - What is Inheritance.md",
     "Module 7/Pearson Notes/14.10 - Rvalue References and Move Semantics.md",
-    "Module 8/Pearson Notes/15.8 - Multiple Inheritance.md",
-    "Module 8/Pearson Notes/15.7 - Abstract Base Classes and Pure Virtual Functions.md",
-    "Module 8/Pearson Notes/15.6 - Polymorphism and Virtual Member Functions.md",
-    "Module 8/Pearson Notes/15.5 - Class Hierarchies.md",
-    "Module 8/Pearson Notes/15.4 - Redefining Base Class Functions.md",
-    "Module 8/Pearson Notes/15.3 - Constructors and Destructors in Base and Derived Classes.md",
-    "Module 8/Pearson Notes/15.2 - Protected Members and Class Access.md",
-    "! templates and stuff for me to remember.md",
     "Module 7/Pearson Notes/14.7 Photos",
     "MIDTERM (Modules 1-5)",
     "Module 7/Pearson Notes/14.5 Photos/14.5 - Figure 14-6.png",
@@ -222,10 +213,8 @@
     "Module 6/Pearson Notes/13.16 Photos/13.16 - Figure 13-24.png",
     "Module 6/Pearson Notes/13.16 Photos",
     "Module 6/Pearson Notes/13.16 Photos/13.16 - Figure 13-23.png",
-    "Module 6/Pearson Notes/13.15 Photos/13.15 - Figure 13-22.png",
     "Module 6/Pearson Notes/13.15 Photos",
     "Module 1/Code/Searches/Binary Search",
-    "Module 1/Code/Searches",
-    "Module 1/Code/Sorts"
+    "Module 1/Code/Searches"
   ]
 }
