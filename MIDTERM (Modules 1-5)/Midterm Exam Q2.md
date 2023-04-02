@@ -1,3 +1,7 @@
+
+Here is the original code that I stole LOL: https://github.com/jsquared21/StartingOutCPP/blob/master/PC_13/PC_13_12.cpp
+I made changes to the code down below so that it was easier for me to understand. I also added some QoF changes to it.
+
 Write a program that uses a structure to store the following inventory data in a file:
 -   Item Description
 -   Quantity on Hand
@@ -443,3 +447,5 @@ bool isEmpty(fstream& File)
 	return File.peek() == std::fstream::traits_type::eof();
 }
 ```
+
+If you scrolled all the way down here u r swag 👍 :3
