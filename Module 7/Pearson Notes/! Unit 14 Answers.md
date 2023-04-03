@@ -100,6 +100,8 @@ friend ostream &operator << (ostream & out, const Window & obj)
 }
 ```
 
+#### [Next Section (14.6)](14.6%20-%20Object%20Conversion.md)
+
 # Programming Project
 fuck you pearson i hate you
 ```c++
