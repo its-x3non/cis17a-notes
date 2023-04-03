@@ -1,4 +1,4 @@
-## Quiz 14.1
+## Quiz 14-1
 ### Question 1
 ```c++
 class Counter
@@ -65,7 +65,7 @@ class Window
 
 #### [Next Section (14.3)](14.3%20-%20Memberwise%20Assignment.md)
 
-## Quiz 14.4
+## Quiz 14-4
 ### Question 1
 ```c++
 GraphicProgram(const GraphicProgram &a)
@@ -75,7 +75,7 @@ GraphicProgram(const GraphicProgram &a)
 
 ####  [Next Section (14.5)](14.5%20-%20Operator%20Overloading.md)
 
-## Quiz 14.5
+## Quiz 14-5
 ### Question 1
 ```c++
 friend istream &operator >> (istream & ins, Window & obj)
