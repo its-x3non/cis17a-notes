@@ -37,7 +37,7 @@ I am not responsible for you cheating on your programming projects. I am here to
 - [✅ Pearson Notes](/Module%207/Pearson%20Notes)
   - [✅ Answers](/Module%207/Pearson%20Notes/!%20Unit%2014%20Answers.md)
 - [✅ Video Notes](/Module%207/Video%20Notes)
-## [🆗 Module 8 - Chapter 15: Inheritance, Polymorphism, and Virtual Functions](/Module%206)
+## [🆗 Module 8 - Chapter 15: Inheritance, Polymorphism, and Virtual Functions](/Module%208)
 - [⚠️ Pearson Notes](/Module%208/Pearson%20Notes)
   - [✅ Answers](/Module%208/Pearson%20Notes/!%20Unit%2015%20Answers.md)
 - [❌ Video Notes](/Module%208/Video%20Notes)
