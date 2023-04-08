@@ -9,4 +9,4 @@ A lot of what he discussed here can be found more in detail in certain sections 
 - Same notation as for structures within structures
 
 ## The `Instructor, Textbook` and `Course` [Classes UML Figure](../Pearson%20Notes/14.7%20-%20Aggregation.md#Figure-14-7)
-![14.7 - Figure 14-7](../Pearson%20Notes/14.7%20Photos/14.7%20-%20Figure%2014-7.png)
+![14.7 - Figure 14-7](../Pearson%20Notes/Singular%20Photos/14.7%20-%20Figure%2014-7.png)

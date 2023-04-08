@@ -1,29 +1,3 @@
-## Quiz 15-1
-### Question 1
-```c++
-class CameraPhone : public Phone
-{
-    private:
-        int imageSize;
-        int memorySize;
-    public:
-        CameraPhone(int, int);
-        int numPictures();
-};
-
-CameraPhone::CameraPhone(int imgSize, int memSize)
-{
-    imageSize = imgSize;
-    memorySize = memSize;
-}
-int CameraPhone::numPictures()
-{ return memorySize/imageSize; }
-```
-
-#### [Next Section (15.2)](15.2%20-%20Protected%20Members%20and%20Class%20Access.md)
-
-# Programming Project
-This programming project is also fairly easy as I didn't have to make a whole ass program :skull emoji:
 ```c++
 #include <iostream>
 #include <string>
@@ -111,5 +85,3 @@ public:
 	{ return emailList; }
 };
 ```
-
-#### [Next Section (Go to Next Chapter)](../../Module%209/Pearson%20Notes/16.1%20-%20Exceptions.md)
