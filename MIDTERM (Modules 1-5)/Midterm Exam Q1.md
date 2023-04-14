@@ -50,6 +50,7 @@ void displayBonusPrompt();
 void negativePrompt();
 void invalidNumPrompt();
 void displayMenu();
+char RepeatPrompt(char& ans);
 
 void storeHourlyInfo(Worker& h);
 void storeSalaryInfo(Worker& s);
@@ -62,10 +63,11 @@ int main()
 {
 	Worker data;
 	int choice;
-	char reuse = 'Y';
+	char ans = 'Y';
+	bool reuse = true;
 
 	// loop
-	while (reuse == 'Y')
+	while (reuse)
 	{
 		system("cls");
 		displayMenu();
@@ -132,30 +134,16 @@ int main()
 		}
 
 		// ask user if they want to reuse
-		cout << "\nUse again? [Y/N]: ";
-		while (!(cin >> reuse))
-		{
-			choiceError();
-			cout << "Use again? [Y/N]: ";
-		}
-		reuse = toupper(reuse);
+		RepeatPrompt(ans);
 		
-		// if neither Y / N
-		do
-		{
-			choiceError();
-			cout << "Use again? [Y/N]: ";
-			cin >> reuse;
-		} while ((reuse != 'Y' || reuse != 'y') && (reuse != 'N' || reuse != 'n'));
-		reuse = toupper(reuse);
+		if (ans == 'N' || ans == 'n')
+			reuse = false;
+		else if (ans == 'Y' || ans == 'y')
+			reuse = true;
 	}
 
-	// if N (no)
-	if (reuse == 'N' || reuse == 'n')
-	{
-		byebyeMessage();
-		return 0;
-	}
+	byebyeMessage();
+	return 0;
 }
 
 //******************************************//
@@ -404,5 +392,17 @@ void displayMenu()
 	cout << "[2] Salaried Worker" << endl;
 	cout << "[0] Quit" << endl;
 }
+// ************************************************************* //
 
+// ============= //
+// repeat prompt //
+// ============= //
+char RepeatPrompt(char &ans)
+{
+	cout << "Use program again? [Y/N]: ";
+	cin >> ans;
+
+	cout << endl;
+	return ans;
+}
 ```
