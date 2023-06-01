@@ -8,7 +8,7 @@ I am not responsible for you cheating on your programming projects. I am here to
 ⚠️ - Work In Progress (In progress of doing Video or Pearson Notes) <br />
 ❌ - Not Started <br />
 
-# Table of Contents (Last Updated: 3/9/2023)
+# Table of Contents (Last Updated: 6/1/2023)
 ## [✅ Module 1 - Chapter 8: Searching And Sorting Arrays](/Module%201/)
 - [✅ Pearson Notes](/Module%201/Pearson%20Notes)
   - [✅ Answers](Module%201/Pearson%20Notes/!%20Unit%208%20Answers.md)
