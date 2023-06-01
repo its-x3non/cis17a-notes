@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "faab506168c8b277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FINAL/Final Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 10/Pearson Notes/15.2 - Protected Members and Class Access.md",
+                "file": "FINAL/Final Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 10/Pearson Notes/15.2 - Protected Members and Class Access.md",
+                "file": "FINAL/Final Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 10/Pearson Notes/15.2 - Protected Members and Class Access.md"
+                "file": "FINAL/Final Exam.md"
               }
             }
           },
@@ -178,8 +190,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "808c3cfbe5d64858",
+  "active": "faab506168c8b277",
   "lastOpenFiles": [
+    "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
+    "FINAL/Final Exam.md",
+    "MIDTERM (Modules 1-5)/Midterm Exam Q1.md",
+    "Module 10/Pearson Notes/15.2 - Protected Members and Class Access.md",
+    "FINAL",
     "Module 10/Pearson Notes/15.1 - What is Inheritance.md",
     "Module 9/Pearson Notes/13.13 - Focus on Problem Solving and Program Design.md",
     "Module 9/Pearson Notes/13.14 - Focus on Object-Oriented Programming.md",
@@ -200,16 +217,12 @@
     "Module 11/Pearson Notes/15.6 - Polymorphism and Virtual Member Functions.md",
     "Module 12/Pearson Notes/16.4 - Class Templates.md",
     "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
-    "MIDTERM (Modules 1-5)/Midterm Exam Q1.md",
-    "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
     "Module 7/Pearson Notes/14.6 - Object Conversion.md",
     "Module 9/Pearson Notes/Singular Photos/14.7 - Figure 14-7.png",
     "Module 9/Pearson Notes/Singular Photos/14.8 - Figure 14-8.png",
     "Module 9/Pearson Notes/Singular Photos",
     "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
     "Module 6/Pearson Notes/13.4 - Why Have Private Members.md",
-    "Module 6/Pearson Notes/13.3 - Defining an Instance of a Class.md",
-    "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
     "Module 9/Video Notes",
     "Module 9/Pearson Notes",
     "Module 9",
@@ -218,7 +231,6 @@
     "Module 7/Pearson Notes/Singular Photos/14.1 - Figure 14-2.png",
     "Module 4/Pearson Notes/Singular Photos",
     "Module 7/Pearson Notes/Singular Photos",
-    "Module 10/Pearson Notes/Singular Photos",
     "Module 11/Pearson Notes/Singular Photos/15.8 - Figure 15-6.png",
     "Module 12/Pearson Notes/16.2 Photos/16.2 - Figure 16-3.png",
     "Module 12/Pearson Notes/16.1 Photos/16.1 - Figure 16-2.png",
