@@ -11,11 +11,38 @@
             "id": "ffd27874946a0456",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0feba03d433a26d0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Module 9/Pearson Notes/Singular Photos/14.8 - Figure 14-8.png"
+              }
+            }
+          },
+          {
+            "id": "808c3cfbe5d64858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 10/Pearson Notes/15.2 - Protected Members and Class Access.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Module 10/Pearson Notes/15.2 - Protected Members and Class Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Module 10/Pearson Notes/15.2 - Protected Members and Class Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Module 10/Pearson Notes/15.2 - Protected Members and Class Access.md"
+              }
             }
           },
           {
@@ -147,53 +178,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffd27874946a0456",
+  "active": "808c3cfbe5d64858",
   "lastOpenFiles": [
-    "All Programming Projects in Order/Programming Project 8.md",
-    "All Programming Projects in Order/Programming Project 7.md",
-    "All Programming Projects in Order/Programming Project 6.md",
-    "All Programming Projects in Order/Programming Project 5.md",
-    "All Programming Projects in Order/Programming Project 4.md",
-    "All Programming Projects in Order/Programming Project 3.md",
-    "All Programming Projects in Order/Programming Project 2.md",
-    "All Programming Projects in Order/Programming Project 1.md",
-    "All Programming Projects in Order.md",
+    "Module 10/Pearson Notes/15.1 - What is Inheritance.md",
+    "Module 9/Pearson Notes/13.13 - Focus on Problem Solving and Program Design.md",
+    "Module 9/Pearson Notes/13.14 - Focus on Object-Oriented Programming.md",
+    "Module 9/Pearson Notes/13.16 - Focus on Object-Oriented Design.md",
+    "Module 9/Pearson Notes/13.15 - Focus on Object-Oriented Design.md",
+    "Module 9/Pearson Notes/14.7 - Aggregation.md",
+    "Module 9/Pearson Notes/14.10 - Rvalue References and Move Semantics.md",
+    "Module 9/Pearson Notes/14.9 - Focus on Object-Oriented Programming.md",
+    "Module 9/Pearson Notes/14.8 - Focus on Object-Oriented Design.md",
+    "Module 7/Pearson Notes/14.3 - Memberwise Assignment.md",
+    "Module 7/Pearson Notes/14.2 - Friends of Classes.md",
+    "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
+    "README.md",
+    "! templates and stuff for me to remember.md",
+    "Module 11/Pearson Notes/15.8 - Multiple Inheritance.md",
+    "Module 11/Pearson Notes/15.7 - Abstract Base Classes and Pure Virtual Functions.md",
+    "Module 11/Pearson Notes/Singular Photos",
+    "Module 11/Pearson Notes/15.6 - Polymorphism and Virtual Member Functions.md",
+    "Module 12/Pearson Notes/16.4 - Class Templates.md",
+    "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
+    "MIDTERM (Modules 1-5)/Midterm Exam Q1.md",
+    "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
+    "Module 7/Pearson Notes/14.6 - Object Conversion.md",
+    "Module 9/Pearson Notes/Singular Photos/14.7 - Figure 14-7.png",
+    "Module 9/Pearson Notes/Singular Photos/14.8 - Figure 14-8.png",
+    "Module 9/Pearson Notes/Singular Photos",
+    "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
+    "Module 6/Pearson Notes/13.4 - Why Have Private Members.md",
+    "Module 6/Pearson Notes/13.3 - Defining an Instance of a Class.md",
+    "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
+    "Module 9/Video Notes",
+    "Module 9/Pearson Notes",
+    "Module 9",
     "All Programming Projects in Order",
     "MIDTERM (Modules 1-5)/Untitled",
-    "Module 8/Pearson Notes/15.8 - Multiple Inheritance.md",
-    "! templates and stuff for me to remember.md",
-    "Module 9/Pearson Notes/16.3 - Focus on Software Engineering.md",
-    "Module 9/Pearson Notes/16.1 - Exceptions.md",
     "Module 7/Pearson Notes/Singular Photos/14.1 - Figure 14-2.png",
     "Module 4/Pearson Notes/Singular Photos",
-    "Module 7/Pearson Notes/Singular Photos/14.7 - Figure 14-7.png",
-    "Module 7/Pearson Notes/Singular Photos/14.8 - Figure 14-8.png",
     "Module 7/Pearson Notes/Singular Photos",
-    "Module 8/Pearson Notes/Singular Photos",
-    "Module 8/Pearson Notes/Singular Photos/15.8 - Figure 15-6.png",
-    "Module 8/Pearson Notes/15.7 - Abstract Base Classes and Pure Virtual Functions.md",
-    "Module 9/Pearson Notes/16.2 - Function Templates.md",
-    "README.md",
-    "Module 7/Video Notes/(6) 7-6 Aggregation.md",
-    "Module 9/Pearson Notes/16.2 Photos",
-    "Module 9/Pearson Notes/16.2 Photos/16.2 - Figure 16-3.png",
-    "Module 9/Pearson Notes/16.4 - Class Templates.md",
-    "Module 7/Pearson Notes/14.5 - Operator Overloading.md",
-    "Module 7/Pearson Notes/14.6 - Object Conversion.md",
-    "Module 7/Pearson Notes/14.7 - Aggregation.md",
-    "Module 7/Pearson Notes/14.4 - Copy Constructors.md",
-    "Module 7/Pearson Notes/14.10 - Rvalue References and Move Semantics.md",
-    "Module 6/Pearson Notes/13.2 - Introduction to Classes.md",
-    "Module 6/Pearson Notes/13.1 - Procedural and Object-Oriented Programming.md",
-    "Module 9/Pearson Notes/16.1 Photos/16.1 - Figure 16-2.png",
-    "Module 9/Pearson Notes/16.1 Photos",
-    "Module 9/Pearson Notes/16.1 Photos/16.1 - Figure 16-1.png",
-    "Module 8/Pearson Notes/15.6 - Polymorphism and Virtual Member Functions.md",
-    "Module 8/Pearson Notes/15.5 Photos/15.5 - Figure 15-5.png",
-    "Module 8/Pearson Notes/15.5 Photos",
-    "Module 8/Pearson Notes/15.5 Photos/15.5 - Figure 15-4.png",
-    "Module 8/Pearson Notes/15.2 Photos",
-    "Module 8/Pearson Notes/Singular Photos/15.2 - Figure 15-3.png",
-    "Module 8/Pearson Notes/15.1 Photos"
+    "Module 10/Pearson Notes/Singular Photos",
+    "Module 11/Pearson Notes/Singular Photos/15.8 - Figure 15-6.png",
+    "Module 12/Pearson Notes/16.2 Photos/16.2 - Figure 16-3.png",
+    "Module 12/Pearson Notes/16.1 Photos/16.1 - Figure 16-2.png",
+    "Module 12/Pearson Notes/16.1 Photos/16.1 - Figure 16-1.png",
+    "Module 10/Pearson Notes/15.5 Photos/15.5 - Figure 15-5.png",
+    "Module 10/Pearson Notes/15.5 Photos/15.5 - Figure 15-4.png",
+    "Module 10/Pearson Notes/Singular Photos/15.2 - Figure 15-3.png"
   ]
 }

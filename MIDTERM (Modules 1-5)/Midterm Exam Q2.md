@@ -1,7 +1,3 @@
-
-Here is the original code that I stole LOL: https://github.com/jsquared21/StartingOutCPP/blob/master/PC_13/PC_13_12.cpp
-I made changes to the code down below so that it was easier for me to understand. I also added some QoF changes to it.
-
 Write a program that uses a structure to store the following inventory data in a file:
 -   Item Description
 -   Quantity on Hand
@@ -448,4 +444,350 @@ bool isEmpty(fstream& File)
 }
 ```
 
+# Program v2 (Checks Dates)
+```c++
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <cctype>
+#include <iomanip>
+
+using namespace std;
+
+// Constants
+const int SIZE = 51;
+const int numRec = 999;
+
+// Structures
+struct Inventory
+{
+  string desc; // item description
+  int quantity = 0;
+  double wCost = 0.0;
+  double rCost = 0.0;
+  int month = 0;
+  int day = 0;
+  int year = 0;
+};
+
+// Function Prototypes
+void add (Inventory& item, fstream& File);
+void display (Inventory& item, fstream& File);
+void change (Inventory& item, fstream& File);
+long byteNum(int itemNum);
+void invalidMonth();
+void invalidDay();
+void invalidYear();
+
+// Main
+int main ()
+{
+    int choice;
+    Inventory item;
+  fstream inventory ("inventory.dat", ios::out | ios::in | ios::binary);
+
+  // if file does not exist
+  if (!inventory)
+  {
+      cout << "Error opening file or file does not exist." << endl;
+      std::system("pause");
+      std::exit(0);
+  }
+
+      system("cls");
+      cout << fixed << showpoint << setprecision(2);
+      cout << "Inventory Managment Program" << endl;
+      cout << "------------------------------" << endl;
+      cout << "Please make a selection.." << endl;
+      cout << "1) Add a new record" << endl;
+      cout << "2) View an exisitng record" << endl;
+      cout << "3) Change an exisitng record" << endl;
+      cout << "4) Exit" << endl;
+      cout << "------------------------------" << endl;
+      cout << endl;
+
+      cout << "Enter your choice (1-4): ";
+      cin >> choice;
+
+      // If Choice is Invalid
+      while (choice < 1 || choice > 4)
+      {
+          cout << "Invaild selection!" << endl;
+          cout << "Please enter your choice (1-4): " << endl;
+          cin >> choice;
+      }
+
+      // If Choice is Valid
+      if (choice == 1) // Add Item
+      {
+          add(item, inventory);
+          cout << "\nRestart program to view records!" << endl;
+          system("pause");
+      }
+      else if (choice == 2) // Display Item
+      {
+          display(item, inventory);
+          cout << "\nRestart program to view other records!" << endl;
+          system("pause");
+      }
+      else if (choice == 3) // Change Item
+      {
+          change(item, inventory);
+          cout << "\nRestart program to view changes!" << endl;
+          system("pause");
+      }
+      else if (choice == 4) // Quit
+      {
+          inventory.close();
+          exit(0);
+      }
+      else 
+      {
+          cout << "Invalid selection" << endl;
+      }
+
+      inventory.close();
+      exit(0);
+  }
+
+// Functions
+
+// Add Item to Record
+  void add (Inventory& item, fstream& File)
+  {
+    system("cls");
+    File.seekp(0L, ios::end);
+    cout << "Enter the following inventory information:\n";
+
+    // Get Item Description
+    cout << "\nItem description: ";
+    cin.ignore();
+    getline(cin, item.desc);
+
+    // Get Quantity of Item
+    cout << "Quantity: ";
+    cin >> item.quantity;
+    while (item.quantity < 0)
+      {
+        cout << "Cannot be less than 0.\n";
+        cout << "Quantity: ";
+        cin >> item.quantity;
+      }
+
+    // Get Wholesale Cost
+    cout << "Wholesale cost: $";
+    cin >> item.wCost;
+    while (item.wCost < 0)
+      {
+        cout << "Cannot be less than 0.\n";
+        cout << "Wholesale cost: $";
+        cin >> item.wCost;
+      }
+
+    // Get Retail Cost
+    cout << "Retail cost: $";
+    cin >> item.rCost;
+    while (item.rCost < 0)
+      {
+        cout << "Cannot be less than 0.\n";
+        cout << "Retail cost: $";
+        cin >> item.rCost;
+      }
+
+    // GET DATE INFORMATION //
+    // Month
+    cout << "\nDate added to invetory:" << endl;
+    cout << "------------------------------" << endl;
+    cout << "Month: ";
+    cin >> item.month;
+    while (item.month <= 0 || item.month > 12)
+      {
+        invalidMonth();
+        cin >> item.month;
+      }
+
+    // Day
+    cout << "Day: ";
+    cin >> item.day;
+    while (item.day <= 0 || item.day > 31)
+      {
+        invalidDay();
+        cin >> item.day;
+      }
+
+    // Year
+    cout << "Year: ";
+    cin >> item.year;
+    while (item.year < 1900 || item.year > 2999)
+      {
+        invalidYear();
+        cin >> item.year;
+      }
+
+    File.write(reinterpret_cast<char*>(&item), sizeof(item));
+  }
+
+
+  // Display Item on Record
+  void display (Inventory& item, fstream& File)
+  {
+      system("cls");
+      int itemNum;
+
+      cout << "Enter Record Number:";
+
+      while (!(cin >> itemNum))
+          cout << "Invalid Input!";
+
+      // Default to 1
+      if (itemNum < 1)
+          itemNum = 1;
+
+    itemNum--;
+    File.seekg(byteNum(itemNum), ios::beg);
+    File.read(reinterpret_cast<char*>(&item), sizeof(item));
+    
+    system("cls");
+    cout << "Record Number: #" << (itemNum + 1) << endl;
+
+    cout << "\nDescription: " << item.desc << endl;
+    cout << "Quantity: " << item.quantity << endl;
+    cout << "Wholesale cost: " << item.wCost << endl;
+    cout << "Retail price: " << item.rCost << endl;
+    cout << "Date Added: " << item.month << "/" << item.day << "/" << item.year << endl;
+  }
+
+  // Change Item Info on Record
+  void change(Inventory& item, fstream& File)
+  {
+    system("cls");
+    int itemNum;
+
+    // User inputs record
+    cout << "Which record do you want to edit?";
+    cin >> itemNum;
+
+    while (!(cin >> itemNum))
+        cout << "Invalid Input!";
+
+    // Default to 1
+    if (itemNum < 1)
+        itemNum = 1;
+
+    // Find Record
+    itemNum--;
+    File.seekg(byteNum(itemNum), ios::beg);
+    File.read(reinterpret_cast<char*>(&item), sizeof(item));
+
+    // Display Current Record
+    cout << "Old Information: " << endl;
+    cout << "Description: " << item.desc << endl;
+    cout << "Quantity: " << item.quantity << endl;
+    cout << "Wholesale cost: " << item.wCost << endl;
+    cout << "Retail price: " << item.rCost << endl;
+    cout << "Date Added: " << item.month << "/" << item.day << "/" << item.year
+         << endl;
+
+    // Change Info //
+    cout << "\nEnter the new inventory information:\n";
+
+    // Get Item Description
+    cout << "\nItem description: ";
+    cin.ignore();
+    getline(cin, item.desc);
+
+    // Get Item Quantity
+    cout << "Quantity: ";
+    cin >> item.quantity;
+    while (item.quantity < 0)
+      {
+        cout << "Cannot be less than 0.\n";
+        cout << "How many? Quantity: ";
+        cin >> item.quantity;
+      }
+
+    // Get Wholesale Cost
+    cout << "Wholesale cost: $";
+    cin >> item.wCost;
+    while (item.wCost < 0) // Input for Sales
+      {
+        cout << "Cannot be less than 0.\n";
+        cout << "Wholesale cost: $";
+        cin >> item.wCost;
+      }
+
+    // Get Retail Cost
+    cout << "Retail cost: $";
+    cin >> item.rCost;
+    while (item.rCost < 0)
+      {
+        cout << "Cannot be less than 0.\n";
+        cout << "Retail cost: $";
+        cin >> item.rCost;
+      }
+
+    // GET DATE INFORMATION //
+    // Month
+    cout << "Date added to invetory: \n"; 
+    cout << "------------------------------" << endl;
+    cout << "Month: ";
+    cin >> item.month;
+    while (item.month <= 0 || item.month > 12)
+      {
+        invalidMonth();
+        cin >> item.month;
+      }
+
+    // Day
+    cout << "Day: ";
+    cin >> item.day;
+    while (item.day <= 0 || item.day > 31)
+      {
+        invalidDay();
+        cin >> item.day;
+      }
+
+    // Year
+    cout << "Year: ";
+    cin >> item.year;
+    while (item.year < 1900 || item.year > 2999)
+      {
+        invalidYear();
+        cin >> item.year;
+      }
+
+    // Change Record In File
+    File.seekp(byteNum(itemNum), ios::beg);
+    File.write(reinterpret_cast<char*>(&item), sizeof(item));
+  }
+
+// returns the byte number in the file of the record
+  long byteNum(int itemNum)
+  {
+      return sizeof(Inventory) * itemNum;
+  }
+
+  // For Each Invalid Dates/Numbers
+  void invalidMonth()
+  {
+      cout << "Error. Re-Type.\n";
+      cout << "Must be between 1-12.\n";
+      cout << "Month: ";
+  }
+
+  void invalidDay()
+  {
+      cout << "Error. Re-Type.\n";
+      cout << "Must be between 1-31, depending on the month.\n";
+      cout << "Day: ";
+  }
+
+  void invalidYear()
+  {
+      cout << "Error. Re-Type.\n";
+      cout << "Must be between 19xx-2xxx.\n";
+      cout << "Year: ";
+  }
+```
 If you scrolled all the way down here u r swag 👍 :3
+

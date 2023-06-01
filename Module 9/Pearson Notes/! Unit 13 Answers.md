@@ -273,7 +273,7 @@ else if(winarr[0].getWidth() == winarr[0].getWidth() && winarr[1].getWidth() == 
 }
 ```
 
-#### [Next Section (13.13)](13.13%20-%20Focus%20on%20Problem%20Solving%20and%20Program%20Design.md)
+#### [Next Section (13.13)](../../../Module%209/Pearson%20Notes/13.13%20-%20Focus%20on%20Problem%20Solving%20and%20Program%20Design.md)
 
 # Programming Project
 This shit is actually the easiest programming project we have had yet so far
@@ -351,4 +351,4 @@ public:
 
 ```
 
-#### [Next Section (Go to Next Chapter)](../../Module%207/Pearson%20Notes/14.1%20-%20Instance%20and%20Static%20Members.md)
+#### [Next Section (Go to Next Chapter)](../../../Module%207/Pearson%20Notes/14.1%20-%20Instance%20and%20Static%20Members.md)
